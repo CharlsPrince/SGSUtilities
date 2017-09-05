@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGSUtilities_Example' do
+  pod 'SGSUtilities', :path => '../'
+
+  target 'SGSUtilities_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SGSUtilities
+
+  Created by Lee on 16/9/13.
+  Copyright © 2016年 Lee. All rights reserved.
+*/
+
+"NotReachable" = "没有网络";
+"WiFi"         = "WiFi";
+"WWAN2G"       = "2G网络";
+"WWAN3G"       = "3G网络";
+"WWAN4G"       = "4G网络";
+"Unknown"      = "未知的网络环境";

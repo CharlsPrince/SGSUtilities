@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  SGSUtilities
+
+  Created by Lee on 16/9/13.
+  Copyright © 2016年 Lee. All rights reserved.
+*/
+
+"NotReachable" = "Not Reachable";
+"WiFi"         = "Reachable via WiFi";
+"WWAN2G"       = "Reachable via WWAN2G";
+"WWAN3G"       = "Reachable via WWAN3G";
+"WWAN4G"       = "Reachable via WWAN4G";
+"Unknown"      = "Unknown";

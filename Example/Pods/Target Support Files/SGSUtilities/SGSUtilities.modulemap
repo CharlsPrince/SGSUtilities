@@ -1,0 +1,6 @@
+framework module SGSUtilities {
+  umbrella header "SGSUtilities-umbrella.h"
+
+  export *
+  module * { export * }
+}
