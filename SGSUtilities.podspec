@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SGSUtilities'
-  s.version  = '0.3.3'
+  s.version  = '0.3.4'
   s.summary  = '常用工具集合'
 
   s.homepage = 'https://github.com/CharlsPrince/SGSUtilities'

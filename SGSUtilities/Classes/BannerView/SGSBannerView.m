@@ -9,7 +9,7 @@
 #import "SGSBannerView.h"
 #import <SGSUtilities/UIImageView+SGSImageLoad.h>
 
-typedef void(^TimerHandler)();
+typedef void(^TimerHandler)(void);
 
 #pragma mark - NSTimer
 

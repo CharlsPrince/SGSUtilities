@@ -1,0 +1,37 @@
+PODS:
+  - SGSUtilities (0.3.4):
+    - SGSUtilities/AppUtil (= 0.3.4)
+    - SGSUtilities/BannerView (= 0.3.4)
+    - SGSUtilities/CityPicker (= 0.3.4)
+    - SGSUtilities/CountdownUtil (= 0.3.4)
+    - SGSUtilities/DeviceUtil (= 0.3.4)
+    - SGSUtilities/ImageUtil (= 0.3.4)
+    - SGSUtilities/NetworkUtil (= 0.3.4)
+    - SGSUtilities/SystemUtil (= 0.3.4)
+    - SGSUtilities/TableViewUtil (= 0.3.4)
+    - SGSUtilities/Toast (= 0.3.4)
+  - SGSUtilities/AppUtil (0.3.4)
+  - SGSUtilities/BannerView (0.3.4):
+    - SGSUtilities/ImageUtil
+  - SGSUtilities/CityPicker (0.3.4)
+  - SGSUtilities/CountdownUtil (0.3.4)
+  - SGSUtilities/DeviceUtil (0.3.4)
+  - SGSUtilities/ImageUtil (0.3.4)
+  - SGSUtilities/NetworkUtil (0.3.4)
+  - SGSUtilities/SystemUtil (0.3.4)
+  - SGSUtilities/TableViewUtil (0.3.4)
+  - SGSUtilities/Toast (0.3.4)
+
+DEPENDENCIES:
+  - SGSUtilities (from `../`)
+
+EXTERNAL SOURCES:
+  SGSUtilities:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SGSUtilities: 30a14439a3aae52713f73cfc8d5c9f53dfe2adab
+
+PODFILE CHECKSUM: 9f135357586301be6c28158d4c925b13fed00b63
+
+COCOAPODS: 1.5.3

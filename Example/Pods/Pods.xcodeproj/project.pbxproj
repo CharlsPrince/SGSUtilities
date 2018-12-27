@@ -7,59 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0006D6CE38C404D0D5932978E57BDCD0 /* UIImageView+SGSImageLoad.h in Headers */ = {isa = PBXBuildFile; fileRef = FD12F3212B456DCEBD031F1957E2A737 /* UIImageView+SGSImageLoad.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0040E3F60B1977B915DA543CEE2FFDCA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CE09877D8645FC6F760ED071211F82 /* Foundation.framework */; };
-		07C6425C206AA27BDDFA5CE39391D352 /* SGSCountdownTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 70E45E48284E3F79443632175C7ADB69 /* SGSCountdownTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		09C77C57A7034D0391507D75D5E52887 /* SGSCityTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 87D83F32A329778E31D2ED3A8F21ABF5 /* SGSCityTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		0B645DB35DDE7D5367A25191358947AE /* Pods-SGSUtilities_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D8A17D1A3B7D46E7E54BC41EEA348AF0 /* Pods-SGSUtilities_Tests-dummy.m */; };
-		0E5A417891EF3E3642B93994E920BF70 /* SGSUtilities-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 598FF158C9DFA2148CB0FCD8281539F1 /* SGSUtilities-dummy.m */; };
-		1839C1122D3035F0FEE5E64BA24DA3A3 /* SGSImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B3664566EEE332EB4089225DCBEC716B /* SGSImageCache.m */; };
-		20E75785FF6A2A1938C46AFBBF9F0FE2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27B2FC5D6D175BDDC25F98A665FE652D /* CoreGraphics.framework */; };
-		244CBA9F37E8B8F0BCEA13C81A753AB4 /* Pods-SGSUtilities_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FD30584AA6B0E24A637699D40CE8C452 /* Pods-SGSUtilities_Example-dummy.m */; };
-		28E1668EE9EFED3EF29772002E40F5F3 /* SGSCityPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4945E6921213A18B960E3FE9CEFBE05E /* SGSCityPickerController.m */; };
-		2AEE8C8358F160958DBDA5C175B8A185 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CE09877D8645FC6F760ED071211F82 /* Foundation.framework */; };
-		32BC352BF9980854BF9935404B632365 /* SGSNetUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A5734190288673DFFE854ED17A02CF5 /* SGSNetUtil.m */; };
-		36E25AEC28610158EB0DD25DDD549791 /* SGSCityItemsTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = FAFEF3623EF9D829EE20AFF0B49AC63D /* SGSCityItemsTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3852F6544C4515399F2459FD72045473 /* SGSSystemUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A42A91F28C7548E137493275A935F5C /* SGSSystemUtil.m */; };
-		3886F95B001DBD73690E58FC6FDD2595 /* SGSCityItemsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C77C0C5A2F7B509C6F87CB27237B4F87 /* SGSCityItemsCollectionViewCell.m */; };
-		3D93D536DAFE64C1863A80FEAEEFE66A /* SGSUtilities-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EA495BD548E4F7A040206082FEC192B1 /* SGSUtilities-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4D4BABCA4458DC9AF60A6BD0F95805CB /* SGSBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF796DEE07B8A58AEF8026254EA1D8F /* SGSBannerView.m */; };
-		537B90FCC9DC23D720DB02DB25D6BBAA /* UIImageView+SGSImageLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = BB0AEA62DCF10D44CC5CC73E17D0570F /* UIImageView+SGSImageLoad.m */; };
-		53AA118F24E097AC657679E86A49F4FD /* SGSToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 920DAAD2914955E3D677FBBF42D17FD3 /* SGSToast.m */; };
-		54F1012770CC90BF2DB9FEC7B19AD67A /* SGSSystemUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = BC1DE8C534214FDF5A517884D5DC459E /* SGSSystemUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5A66A28DFFBDB88C556EF54CB0335883 /* SGSBaseTableViewProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 06D90A9DB28C22A5A63FCC85B0D9F36C /* SGSBaseTableViewProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5A9DB552DE6181282D1F012F19D18CDD /* SGSToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 7764165DA3204C8FDB0F14C34A814116 /* SGSToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		614CE3A55435691EA88F33855DE2E308 /* SGSNetUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = D46F9F1B7E44439EAACE15EE0250E6C2 /* SGSNetUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		68C61E1EC139B7609404C406D88E6D25 /* SGSMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = A2819AF63A3E04586E32E6F2C5CBF912 /* SGSMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		72A15084104DF2D5C11F0708FA7C72F5 /* SGSCountdownableButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 553F9D012FF5A6F188103F8339D01A68 /* SGSCountdownableButton.m */; };
-		74238BD5AA5F2D8406C8649F9989DB9B /* SGSCityPicker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E7838D5FCF146009DA62FE049F4AF403 /* SGSCityPicker.bundle */; };
-		74F865C3A9695101F378A206AC7B9A50 /* SGSDeviceUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EC80FA0D2FE7CECD7465FCA7229B25E /* SGSDeviceUtil.m */; };
-		7EF63FF8B938827AA1ABF19EB2FDD14F /* Pods-SGSUtilities_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FE3665FAF461781AF63F93ED16931FE /* Pods-SGSUtilities_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7F2AF4F81CF0B6DA335820E6C259E1B7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CE09877D8645FC6F760ED071211F82 /* Foundation.framework */; };
-		808E98B53911DFE2A40B32093A1B832B /* SGSCityLocationTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20047A291EAAF0C2F691088CB242218C /* SGSCityLocationTableViewCell.m */; };
-		81E8F7D3BDAC72CAE224B13395714D50 /* SGSImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 13FB78AB06E5BC0AB9954A72792D7FD7 /* SGSImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		881AEAB47158E89168FEE68EC40215D8 /* SGSUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B4EE50466C060907FB61F5963A5A22E /* SGSUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8CF1E54265FAFADC1A7052A7B832CEC2 /* SGSCityLocationTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F0BE332A50F4A3E7BE90C5BB0144425 /* SGSCityLocationTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9DA293C2B7D2CBDFFDF6ADEA0BF0700B /* CityList.plist in Resources */ = {isa = PBXBuildFile; fileRef = DECEAE360E1AD35149B2FDFDB45ECA6A /* CityList.plist */; };
-		9DCB7DABDD0C28C6929EC9C5F749DF7A /* SGSCityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 069A9E2D14FD05F845CA7F27DA8825FA /* SGSCityTableViewCell.m */; };
-		9DF3C0C52F428D6359E17493E169E0EB /* SGSBaseTableViewProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = AF0E44284A73CDDA627AE84E279FD117 /* SGSBaseTableViewProtocol.m */; };
-		A580A521BC5227C3083F620E3301C7BA /* SGSCountdownableButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 983108244AD32FB8C2DB634C22E07C1E /* SGSCountdownableButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AA94CCAC65BE8F3F5CAFA3D5C0480491 /* UIViewController+SGSToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A760C5BE666B70FC1197BFC50A8F25A /* UIViewController+SGSToast.m */; };
-		AD335CCFD4FC8CF1A468EE261529CEE5 /* Pods-SGSUtilities_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BCE6D1982AF8420A394756B977FA304B /* Pods-SGSUtilities_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B2AAEE662E4D8B01E58939AFBB9B05C3 /* UIViewController+SGSToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 6507408497968D434FF6A11C35B6F959 /* UIViewController+SGSToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BE2250D22C9C1DDDC82D26940EA79090 /* SGSCountdownTask.m in Sources */ = {isa = PBXBuildFile; fileRef = BD16A2E503FEC3F201869701A067C1AF /* SGSCountdownTask.m */; };
-		C174AF76CA45ADADA7E138736ABAF2C8 /* SGSAppUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = AD52330FCF347531F4B424A8CC39DF22 /* SGSAppUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C2C4822E551EE6894C912C64912295B8 /* SGSAppUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = B5E91BCE453B7946CEF2D73CEC07D587 /* SGSAppUtil.m */; };
-		D167F6B88E0576D97972BCAFF0230C1B /* SGSCityPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B935BDA50BEAB67BA67874AA97FDF9B /* SGSCityPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D1C15E9F6B456DDCB58F4F7DC9ADDEDF /* SGSCityPickerDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 053EB8881662D8D372F20D619AF1CB2C /* SGSCityPickerDefine.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		D54FAFC81223D0DFF7DB99D340B15930 /* SGSBannerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 35E8774A5537D50A3321324A2C41537D /* SGSBannerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D7A8563501E04CF9CAA1EAC0AAE9B1DC /* SGSCountdownManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 26F508B73BBF8E82E8F8DB728B31EFA4 /* SGSCountdownManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DF24F1CE193FC0444640D7E9C39B7BAF /* SGSCityItemsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 06207875BCCB44F3D7BF0A9CBC9748DE /* SGSCityItemsTableViewCell.m */; };
-		E777D30BA7D7C43C32E2A1E7DBE13FC3 /* SGSCountdownManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 62BB0698BA22EA561D431725FCA63D0C /* SGSCountdownManager.m */; };
-		EEB35F0EBECBB90455C0A79B7250A26E /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3854B5653FF2C2A24A311B10E923D1C2 /* CoreTelephony.framework */; };
-		F5933700DA24427D214C0AAA0A64E96C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D52DF8DD4F84666796ABF0166B0CF60 /* UIKit.framework */; };
-		F8D843C99CA34291AEF8E0C8BD44A6AF /* SGSCityItemsCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 377697224A2E5C93BF4800DD56A54263 /* SGSCityItemsCollectionViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		FCBEA6460CF163D926F75FA2B2F231C9 /* SGSDeviceUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8C31AE5D1BFB2CDB38CA8BA58622C3 /* SGSDeviceUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		02C4CDFA8763B91FDD1ADFAADFCA4D5F /* SGSToast.h in Headers */ = {isa = PBXBuildFile; fileRef = A21B47ABD17900BA62D88C4C394B0020 /* SGSToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0614A0A8AC16D6817DD115C8C5E60A12 /* SGSCityPickerDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = A2D0CD5865C3C8A161648DC5E6FDDEEF /* SGSCityPickerDefine.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		0EE31D77C8367438B9160438F0DD78CF /* SGSCityLocationTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F165FE7458F2789DDAC88D28C2C65E7 /* SGSCityLocationTableViewCell.m */; };
+		114D818CE89A4368D3F754D2959EFB70 /* SGSBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1C3D3F40CEBEA9F2D8DAC881C4E52 /* SGSBannerView.m */; };
+		13B732E37101E70F6C8EEE9A351A7922 /* SGSCityItemsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CDF583CFD0AA23188DF1E28BEE78715 /* SGSCityItemsTableViewCell.m */; };
+		15566A23C12BBB32508DC6475C88ABFF /* SGSNetUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = C46BA38D3EA1D9246A0887AA8947FD1F /* SGSNetUtil.m */; };
+		15CCA1EF3F417386020320F2870F53F5 /* SGSBaseTableViewProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 27C65C51F3CE92D0C6F1B2A53B6C6F2D /* SGSBaseTableViewProtocol.m */; };
+		1C1E0706B29E861954ABBEEA23B38A2F /* SGSCityPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F08ED0BF0600AB9A786746D61FC6F3 /* SGSCityPickerController.m */; };
+		21440B4F97A90A04C551005816DF8BA1 /* SGSCountdownTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 563B4A96FC7D3CD9B7A2FE94449B6B5B /* SGSCountdownTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		244CBA9F37E8B8F0BCEA13C81A753AB4 /* Pods-SGSUtilities_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 76C2D8CE6DD1671AEAB8B91F7EA10A71 /* Pods-SGSUtilities_Example-dummy.m */; };
+		2B8AD6A16170F992344E95C6E5A3424D /* SGSUtilities-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 287DF462283909E71B3605E5F1563072 /* SGSUtilities-dummy.m */; };
+		359C3B33DABC28D8659D288BB175CEFE /* SGSBannerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DE4A51BD4FAA2B595AE3F5FB01F971D /* SGSBannerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3999C9666954AA38D20684AB2C6E7C53 /* SGSCityPicker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D5EB88AB3D5853CA175BF330E9F5F4EE /* SGSCityPicker.bundle */; };
+		3BB8B83CE5EB04E30061891C8DE7656F /* SGSCountdownManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 1066374BAD84D46F27B1882C128E697F /* SGSCountdownManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		45720D59EC3FCCDE123D7C66483B0F08 /* SGSCityPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6DB1CAB0C251E5583BB18C76CB1A5E99 /* SGSCityPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5413BA50E8B0BE762B22F587677B1C21 /* SGSSystemUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C7D4C44533CCB9BC2F958F4FB5F8693 /* SGSSystemUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B35ACE6FBCB67B66D2B798EA73FD922 /* SGSUtilities-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 54BCFD28134F4F035FE43D5BF166D8FE /* SGSUtilities-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7162AB6D6EFE8EEE48B879BB4C955021 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 177BB6696DD76F3E5BDA3465007125BF /* CoreTelephony.framework */; };
+		7357EB8A1A3A679CA3B6DEB9F7E231A6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EABF520268DC576C919C4935E460A86 /* Foundation.framework */; };
+		7D583F9E78C597E47D9DC9252A5A6B20 /* SGSCountdownableButton.h in Headers */ = {isa = PBXBuildFile; fileRef = AFCE8EFF3A52CB5F82905154887BE07D /* SGSCountdownableButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8433D70A623E802FDB607004428885FB /* UIViewController+SGSToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 27A0E3548FD46007687D001E0586141E /* UIViewController+SGSToast.m */; };
+		860B40D7E93AD8C734D2A5A862640538 /* UIImageView+SGSImageLoad.h in Headers */ = {isa = PBXBuildFile; fileRef = BDF682D477FA889A95EE410DC6E7FBE5 /* UIImageView+SGSImageLoad.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8732CE76A272B1C4AFE3A77AEBE0C717 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7534A3441335A6A14641724A26020530 /* CoreGraphics.framework */; };
+		8925521FCF191336FD8873A3FADD4DF9 /* SGSDeviceUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 71DAC4E9D32BE40D027B384CF8CE3A37 /* SGSDeviceUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		896FD1E9B4CAC4FEAB46895968B49026 /* SGSCityLocationTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CA886168ACEA2900FD38236B7984CB00 /* SGSCityLocationTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		8BC4ABD2274E18EBDB85E5592F6CD9F6 /* SGSDeviceUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 77672589636FEFCA79F64D7AFE81D46B /* SGSDeviceUtil.m */; };
+		8E029E64A537A0D64BF5402E1EE2072E /* Pods-SGSUtilities_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF8F4242BC265D91DF8284FB229D27A2 /* Pods-SGSUtilities_Tests-dummy.m */; };
+		910DE5F701CFB6125A40A18C3DDF1EA9 /* SGSImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 43AC0D24173BB4F3DDCDB881D7C38EF0 /* SGSImageCache.m */; };
+		938A31F20E95913ED9C990642A2603CA /* SGSCountdownManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E9CF9C9610357777CF0CB85EA6FB2B /* SGSCountdownManager.m */; };
+		93A0B4293EF7E4F3B85A23DC2056432F /* SGSCityTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CF3B58E9DB066E2ACE922092EF975C02 /* SGSCityTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		944782B889D737FCD376DDE34703A2A8 /* UIImageView+SGSImageLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = E24AE780E41D47455476CFCE4EA20AF4 /* UIImageView+SGSImageLoad.m */; };
+		999994721427D00ECED71AD07B5CCB03 /* SGSSystemUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DBFD39A605A514BFC6634F7F38EA2EC7 /* SGSSystemUtil.m */; };
+		A502C3FD7FB05EB7F2220AD63486FD65 /* SGSBaseTableViewProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D0D99E591D68843490373CD9775C1A8B /* SGSBaseTableViewProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5279C804FD817D2FD38BD950B725463 /* SGSUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = D78D6796210C86D9582E67AB6129287A /* SGSUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5D2E97C179B123D2A122AD421CBB628 /* SGSCityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F862965E51E57C4A07742866D62050 /* SGSCityTableViewCell.m */; };
+		A7C101F3254BBEDBA42449965F1526DF /* SGSImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CC462D48694F1CA9B98BAF4BCA69372 /* SGSImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AD335CCFD4FC8CF1A468EE261529CEE5 /* Pods-SGSUtilities_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E9FF0925F851690B2DC6DBFF295F166 /* Pods-SGSUtilities_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B42C99EC22748631A07E382A28BFC55E /* SGSToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE1F1DB09667FC38CD3250DF519D4F /* SGSToast.m */; };
+		B69B1B6DBC0FCBFB03632F9780E53FD5 /* SGSAppUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 027D4D54C41FE2E107CC4A7DE0EA00CF /* SGSAppUtil.m */; };
+		B7594862A6A12E4E553B449DF15195B6 /* UIViewController+SGSToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 22DC6D30CF3C3CA75A15E10D8F3A2DEE /* UIViewController+SGSToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BDDE4F6DF56DC203581D6BA5800825EE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 619B9C22C782E6EA071BFB94A9F836C5 /* UIKit.framework */; };
+		BF86292EE1CC6E3FCFB99704032C18BD /* SGSCityItemsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C0164099498B2928A051B208FC8EA4F7 /* SGSCityItemsCollectionViewCell.m */; };
+		C64B90299BA1D76CB9D839A4121A9AC1 /* SGSCityItemsTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 25D55A55293B70A0D06E12E79CEAFB0E /* SGSCityItemsTableViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		CB204F230EFE38DF1FF86ADE456EDA3B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EABF520268DC576C919C4935E460A86 /* Foundation.framework */; };
+		CB4F4AE9B16908C71A3FD46674429264 /* CityList.plist in Resources */ = {isa = PBXBuildFile; fileRef = E918C55EE3EA53DCA3F1B49DE4767ED5 /* CityList.plist */; };
+		CC16CA96EEFEEFCE5055E0715BF2E899 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EABF520268DC576C919C4935E460A86 /* Foundation.framework */; };
+		D4B2E6C54A928ACA313E522E94C5D9E3 /* SGSNetUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = AC921E1EA0C9EE644F36870607E51F85 /* SGSNetUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E9C7A3273D3E58F785E1F15887E2F917 /* Pods-SGSUtilities_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A66BEEB68B18476DB807E9C3DD472D39 /* Pods-SGSUtilities_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E9F99539A3DB7881799A1F9E32B48EF2 /* SGSMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = E3DF9291891F09E5B1305085B79C28F4 /* SGSMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		ED410801FC06B38E8B8C47BB5A7BE0A3 /* SGSCountdownableButton.m in Sources */ = {isa = PBXBuildFile; fileRef = DA24B7652469E8E3375FAA5D9ECF7031 /* SGSCountdownableButton.m */; };
+		F5D1A3561F8CE42A0E2070B0FDC19EB8 /* SGSCityItemsCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 8667230F7051F07E1D10D0A823E3828B /* SGSCityItemsCollectionViewCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F703E54CF6DF1663B193E024A9E39F0F /* SGSCountdownTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 26BE93719EF57701F01D5B7D5928527B /* SGSCountdownTask.m */; };
+		F776C350B9E437EB68507F3031A448BE /* SGSAppUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = A6E5593C8BC816BAB81EA954790A8F44 /* SGSAppUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,85 +77,95 @@
 			remoteGlobalIDString = 739DB8700F2579F2028BBE53ACB2F5C0;
 			remoteInfo = "SGSUtilities-SGSCityPicker";
 		};
+		6CD17D777A41906B498ECEE4E0E27CB6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 19D1FA038CA2E94C5D3DC99FEA856038;
+			remoteInfo = "Pods-SGSUtilities_Example";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		053EB8881662D8D372F20D619AF1CB2C /* SGSCityPickerDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityPickerDefine.h; sourceTree = "<group>"; };
-		06207875BCCB44F3D7BF0A9CBC9748DE /* SGSCityItemsTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCityItemsTableViewCell.m; sourceTree = "<group>"; };
-		069A9E2D14FD05F845CA7F27DA8825FA /* SGSCityTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCityTableViewCell.m; sourceTree = "<group>"; };
-		06D90A9DB28C22A5A63FCC85B0D9F36C /* SGSBaseTableViewProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSBaseTableViewProtocol.h; sourceTree = "<group>"; };
-		0EC80FA0D2FE7CECD7465FCA7229B25E /* SGSDeviceUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSDeviceUtil.m; sourceTree = "<group>"; };
-		11E90CA320447C083349F821FD3E07C6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		11ED4E7028403A0BEB9A4167EB15C81D /* Pods_SGSUtilities_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGSUtilities_Tests.framework; path = "Pods-SGSUtilities_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13FB78AB06E5BC0AB9954A72792D7FD7 /* SGSImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSImageCache.h; sourceTree = "<group>"; };
-		1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SGSUtilities.xcconfig; sourceTree = "<group>"; };
-		20047A291EAAF0C2F691088CB242218C /* SGSCityLocationTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCityLocationTableViewCell.m; sourceTree = "<group>"; };
-		26F508B73BBF8E82E8F8DB728B31EFA4 /* SGSCountdownManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCountdownManager.h; sourceTree = "<group>"; };
-		27B2FC5D6D175BDDC25F98A665FE652D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		29D897174B595E2B6C495F5463467A0B /* Pods-SGSUtilities_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Example.release.xcconfig"; sourceTree = "<group>"; };
-		34C3E891BC6F7165C7D7AABBEB77D0DB /* ResourceBundle-SGSCityPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SGSCityPicker-Info.plist"; sourceTree = "<group>"; };
-		35E8774A5537D50A3321324A2C41537D /* SGSBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSBannerView.h; sourceTree = "<group>"; };
-		377697224A2E5C93BF4800DD56A54263 /* SGSCityItemsCollectionViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityItemsCollectionViewCell.h; sourceTree = "<group>"; };
-		3854B5653FF2C2A24A311B10E923D1C2 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
-		3FE3665FAF461781AF63F93ED16931FE /* Pods-SGSUtilities_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGSUtilities_Tests-umbrella.h"; sourceTree = "<group>"; };
-		4414C9742E7ED7CF85BF7D7DEA1354AA /* SGSUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SGSUtilities.framework; path = SGSUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4945E6921213A18B960E3FE9CEFBE05E /* SGSCityPickerController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCityPickerController.m; sourceTree = "<group>"; };
-		4E8C31AE5D1BFB2CDB38CA8BA58622C3 /* SGSDeviceUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSDeviceUtil.h; sourceTree = "<group>"; };
-		553F9D012FF5A6F188103F8339D01A68 /* SGSCountdownableButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCountdownableButton.m; sourceTree = "<group>"; };
-		5861A45908DC39A37F2F0420E8AFBF0B /* Pods_SGSUtilities_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGSUtilities_Example.framework; path = "Pods-SGSUtilities_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		598FF158C9DFA2148CB0FCD8281539F1 /* SGSUtilities-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SGSUtilities-dummy.m"; sourceTree = "<group>"; };
-		5B4EE50466C060907FB61F5963A5A22E /* SGSUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSUtilities.h; sourceTree = "<group>"; };
-		62BB0698BA22EA561D431725FCA63D0C /* SGSCountdownManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCountdownManager.m; sourceTree = "<group>"; };
-		6507408497968D434FF6A11C35B6F959 /* UIViewController+SGSToast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+SGSToast.h"; sourceTree = "<group>"; };
-		6A5734190288673DFFE854ED17A02CF5 /* SGSNetUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSNetUtil.m; sourceTree = "<group>"; };
-		6A760C5BE666B70FC1197BFC50A8F25A /* UIViewController+SGSToast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+SGSToast.m"; sourceTree = "<group>"; };
-		6CDCA4A0F88CEE43DD72D8E3ADA876F2 /* Pods-SGSUtilities_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Tests-resources.sh"; sourceTree = "<group>"; };
-		70E45E48284E3F79443632175C7ADB69 /* SGSCountdownTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCountdownTask.h; sourceTree = "<group>"; };
-		72EC0AD8E2FB5E557B7710EDBF9CE921 /* Pods-SGSUtilities_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGSUtilities_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		7764165DA3204C8FDB0F14C34A814116 /* SGSToast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSToast.h; sourceTree = "<group>"; };
-		7EEF20E37A62FB96FC51A24236021A50 /* Pods-SGSUtilities_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		84B287E790F72429B1555914B40BCB5E /* Pods-SGSUtilities_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Example-resources.sh"; sourceTree = "<group>"; };
-		87D83F32A329778E31D2ED3A8F21ABF5 /* SGSCityTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityTableViewCell.h; sourceTree = "<group>"; };
-		88CED135EF152CEB32A241BE828943FB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B935BDA50BEAB67BA67874AA97FDF9B /* SGSCityPickerController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityPickerController.h; sourceTree = "<group>"; };
-		8F0BE332A50F4A3E7BE90C5BB0144425 /* SGSCityLocationTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityLocationTableViewCell.h; sourceTree = "<group>"; };
-		920DAAD2914955E3D677FBBF42D17FD3 /* SGSToast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSToast.m; sourceTree = "<group>"; };
+		0214C72BC5A461572A4284B4E6F6102F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		027D4D54C41FE2E107CC4A7DE0EA00CF /* SGSAppUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSAppUtil.m; path = SGSUtilities/Classes/AppUtil/SGSAppUtil.m; sourceTree = "<group>"; };
+		0F165FE7458F2789DDAC88D28C2C65E7 /* SGSCityLocationTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCityLocationTableViewCell.m; path = SGSUtilities/Classes/CityPicker/SGSCityLocationTableViewCell.m; sourceTree = "<group>"; };
+		0FE149B8BB1CBE2FE3D5F37A01FF2A1A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1066374BAD84D46F27B1882C128E697F /* SGSCountdownManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCountdownManager.h; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownManager.h; sourceTree = "<group>"; };
+		16208EBF0E847CE1BA3C14E8695985A3 /* Pods-SGSUtilities_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGSUtilities_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		177BB6696DD76F3E5BDA3465007125BF /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
+		192F44F4F2E54F389B49A2F9893A3CE7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		229A73C76D959020DBC91ACA1A959611 /* ResourceBundle-SGSCityPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SGSCityPicker-Info.plist"; sourceTree = "<group>"; };
+		22DC6D30CF3C3CA75A15E10D8F3A2DEE /* UIViewController+SGSToast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+SGSToast.h"; path = "SGSUtilities/Classes/Toast/UIViewController+SGSToast.h"; sourceTree = "<group>"; };
+		23E9CF9C9610357777CF0CB85EA6FB2B /* SGSCountdownManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCountdownManager.m; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownManager.m; sourceTree = "<group>"; };
+		25D55A55293B70A0D06E12E79CEAFB0E /* SGSCityItemsTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityItemsTableViewCell.h; path = SGSUtilities/Classes/CityPicker/SGSCityItemsTableViewCell.h; sourceTree = "<group>"; };
+		26BE93719EF57701F01D5B7D5928527B /* SGSCountdownTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCountdownTask.m; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownTask.m; sourceTree = "<group>"; };
+		27A0E3548FD46007687D001E0586141E /* UIViewController+SGSToast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+SGSToast.m"; path = "SGSUtilities/Classes/Toast/UIViewController+SGSToast.m"; sourceTree = "<group>"; };
+		27C65C51F3CE92D0C6F1B2A53B6C6F2D /* SGSBaseTableViewProtocol.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSBaseTableViewProtocol.m; path = SGSUtilities/Classes/TableViewUtil/SGSBaseTableViewProtocol.m; sourceTree = "<group>"; };
+		287DF462283909E71B3605E5F1563072 /* SGSUtilities-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SGSUtilities-dummy.m"; sourceTree = "<group>"; };
+		29FCC4F5ED1231D21EFF64DB4FDDB281 /* Pods-SGSUtilities_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SGSUtilities_Example.modulemap"; sourceTree = "<group>"; };
+		2C417ECD8C95E7043E322863A041278A /* Pods-SGSUtilities_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		3089F62DA980FAA2E50CF1CC706194E8 /* Pods_SGSUtilities_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGSUtilities_Example.framework; path = "Pods-SGSUtilities_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		369417FDA8C6C3F9EC1A3A6D92C25070 /* Pods-SGSUtilities_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		3CE1C3D3F40CEBEA9F2D8DAC881C4E52 /* SGSBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSBannerView.m; path = SGSUtilities/Classes/BannerView/SGSBannerView.m; sourceTree = "<group>"; };
+		3DE4A51BD4FAA2B595AE3F5FB01F971D /* SGSBannerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSBannerView.h; path = SGSUtilities/Classes/BannerView/SGSBannerView.h; sourceTree = "<group>"; };
+		43AC0D24173BB4F3DDCDB881D7C38EF0 /* SGSImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSImageCache.m; path = SGSUtilities/Classes/ImageUtil/SGSImageCache.m; sourceTree = "<group>"; };
+		45F862965E51E57C4A07742866D62050 /* SGSCityTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCityTableViewCell.m; path = SGSUtilities/Classes/CityPicker/SGSCityTableViewCell.m; sourceTree = "<group>"; };
+		4CC462D48694F1CA9B98BAF4BCA69372 /* SGSImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSImageCache.h; path = SGSUtilities/Classes/ImageUtil/SGSImageCache.h; sourceTree = "<group>"; };
+		4F60C77C35136AB5BAC3584CD22A372A /* SGSUtilities-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SGSUtilities-prefix.pch"; sourceTree = "<group>"; };
+		54BCFD28134F4F035FE43D5BF166D8FE /* SGSUtilities-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SGSUtilities-umbrella.h"; sourceTree = "<group>"; };
+		563B4A96FC7D3CD9B7A2FE94449B6B5B /* SGSCountdownTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCountdownTask.h; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownTask.h; sourceTree = "<group>"; };
+		598A49DA3F87155C12F9BB4615C61426 /* Pods-SGSUtilities_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Example-resources.sh"; sourceTree = "<group>"; };
+		5C571BC8F55F41D31EC8C853DF69E1E0 /* Pods-SGSUtilities_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Example-frameworks.sh"; sourceTree = "<group>"; };
+		5C7D4C44533CCB9BC2F958F4FB5F8693 /* SGSSystemUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSSystemUtil.h; path = SGSUtilities/Classes/SystemUtil/SGSSystemUtil.h; sourceTree = "<group>"; };
+		5CDF583CFD0AA23188DF1E28BEE78715 /* SGSCityItemsTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCityItemsTableViewCell.m; path = SGSUtilities/Classes/CityPicker/SGSCityItemsTableViewCell.m; sourceTree = "<group>"; };
+		610D5C2B95594FF3F9A9BD4F4D7705F8 /* Pods-SGSUtilities_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Example.release.xcconfig"; sourceTree = "<group>"; };
+		619B9C22C782E6EA071BFB94A9F836C5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		6DB1CAB0C251E5583BB18C76CB1A5E99 /* SGSCityPickerController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityPickerController.h; path = SGSUtilities/Classes/CityPicker/SGSCityPickerController.h; sourceTree = "<group>"; };
+		71DAC4E9D32BE40D027B384CF8CE3A37 /* SGSDeviceUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSDeviceUtil.h; path = SGSUtilities/Classes/DeviceUtil/SGSDeviceUtil.h; sourceTree = "<group>"; };
+		736160F3892F910F4A096538D423AA1B /* Pods-SGSUtilities_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SGSUtilities_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		7534A3441335A6A14641724A26020530 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
+		76C2D8CE6DD1671AEAB8B91F7EA10A71 /* Pods-SGSUtilities_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGSUtilities_Example-dummy.m"; sourceTree = "<group>"; };
+		77672589636FEFCA79F64D7AFE81D46B /* SGSDeviceUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSDeviceUtil.m; path = SGSUtilities/Classes/DeviceUtil/SGSDeviceUtil.m; sourceTree = "<group>"; };
+		7A80AF1DD19E807CCA02128BB7B0348F /* Pods-SGSUtilities_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Tests-resources.sh"; sourceTree = "<group>"; };
+		7E9FF0925F851690B2DC6DBFF295F166 /* Pods-SGSUtilities_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGSUtilities_Example-umbrella.h"; sourceTree = "<group>"; };
+		7EABF520268DC576C919C4935E460A86 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		8667230F7051F07E1D10D0A823E3828B /* SGSCityItemsCollectionViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityItemsCollectionViewCell.h; path = SGSUtilities/Classes/CityPicker/SGSCityItemsCollectionViewCell.h; sourceTree = "<group>"; };
+		87A4B3346E97550407B3B5D2A699AF96 /* Pods-SGSUtilities_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SGSUtilities_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		8B9EFD6B6551A8E9A97CB0271C11FFC7 /* Pods-SGSUtilities_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		8FFE1F1DB09667FC38CD3250DF519D4F /* SGSToast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSToast.m; path = SGSUtilities/Classes/Toast/SGSToast.m; sourceTree = "<group>"; };
+		91F0585731A8C7131F897792DB583164 /* SGSUtilities.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SGSUtilities.modulemap; sourceTree = "<group>"; };
+		92D3A6D11AA0F9D6CC3851F7A8A68182 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		983108244AD32FB8C2DB634C22E07C1E /* SGSCountdownableButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCountdownableButton.h; sourceTree = "<group>"; };
-		9A42A91F28C7548E137493275A935F5C /* SGSSystemUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSSystemUtil.m; sourceTree = "<group>"; };
-		9D52DF8DD4F84666796ABF0166B0CF60 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		A2819AF63A3E04586E32E6F2C5CBF912 /* SGSMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSMacros.h; sourceTree = "<group>"; };
-		A5112C22E9DBD073AC611F1C55CC1915 /* Pods-SGSUtilities_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGSUtilities_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		AD52330FCF347531F4B424A8CC39DF22 /* SGSAppUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSAppUtil.h; sourceTree = "<group>"; };
-		AE415159D70FF794709F90BAC3E676F4 /* SGSUtilities-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SGSUtilities-prefix.pch"; sourceTree = "<group>"; };
-		AF0E44284A73CDDA627AE84E279FD117 /* SGSBaseTableViewProtocol.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSBaseTableViewProtocol.m; sourceTree = "<group>"; };
-		B2DEBE10D7BF7C1FAF5717B93F3E1C8F /* SGSUtilities.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SGSUtilities.modulemap; sourceTree = "<group>"; };
-		B3664566EEE332EB4089225DCBEC716B /* SGSImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSImageCache.m; sourceTree = "<group>"; };
-		B5CE09877D8645FC6F760ED071211F82 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		B5E91BCE453B7946CEF2D73CEC07D587 /* SGSAppUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSAppUtil.m; sourceTree = "<group>"; };
-		BB0AEA62DCF10D44CC5CC73E17D0570F /* UIImageView+SGSImageLoad.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+SGSImageLoad.m"; sourceTree = "<group>"; };
-		BC1DE8C534214FDF5A517884D5DC459E /* SGSSystemUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSSystemUtil.h; sourceTree = "<group>"; };
-		BCE6D1982AF8420A394756B977FA304B /* Pods-SGSUtilities_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGSUtilities_Example-umbrella.h"; sourceTree = "<group>"; };
-		BD16A2E503FEC3F201869701A067C1AF /* SGSCountdownTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCountdownTask.m; sourceTree = "<group>"; };
-		BDC590CA5688213A6292F4ED93DE2A14 /* Pods-SGSUtilities_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C05DE96A29A60F5268C7BD81747F0EFE /* Pods-SGSUtilities_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Example-frameworks.sh"; sourceTree = "<group>"; };
-		C77C0C5A2F7B509C6F87CB27237B4F87 /* SGSCityItemsCollectionViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSCityItemsCollectionViewCell.m; sourceTree = "<group>"; };
-		C946E0211D1BD900B0C57B5B022FB226 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEB9CC5E0214CFFA732031B839F424A1 /* Pods-SGSUtilities_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGSUtilities_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		CFA10C376F923F30B5D99ABD5B22DAEE /* Pods-SGSUtilities_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SGSUtilities_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		D46F9F1B7E44439EAACE15EE0250E6C2 /* SGSNetUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSNetUtil.h; sourceTree = "<group>"; };
-		D8A17D1A3B7D46E7E54BC41EEA348AF0 /* Pods-SGSUtilities_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGSUtilities_Tests-dummy.m"; sourceTree = "<group>"; };
-		DECEAE360E1AD35149B2FDFDB45ECA6A /* CityList.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = CityList.plist; sourceTree = "<group>"; };
-		DF05F78CBEAB1254A61D3C8F648D1F48 /* Pods-SGSUtilities_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		DF4979D036D02402A211AADE21739319 /* Pods-SGSUtilities_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SGSUtilities_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		E7838D5FCF146009DA62FE049F4AF403 /* SGSCityPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SGSCityPicker.bundle; path = SGSCityPicker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		E8A419EDFE9B8929E0210EB788E076B5 /* Pods-SGSUtilities_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SGSUtilities_Example.modulemap"; sourceTree = "<group>"; };
-		EA495BD548E4F7A040206082FEC192B1 /* SGSUtilities-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SGSUtilities-umbrella.h"; sourceTree = "<group>"; };
-		EAF796DEE07B8A58AEF8026254EA1D8F /* SGSBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SGSBannerView.m; sourceTree = "<group>"; };
-		F7E21214CD147318914D29005F59E0EB /* Pods-SGSUtilities_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SGSUtilities_Tests.modulemap"; sourceTree = "<group>"; };
-		FAFEF3623EF9D829EE20AFF0B49AC63D /* SGSCityItemsTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SGSCityItemsTableViewCell.h; sourceTree = "<group>"; };
-		FD12F3212B456DCEBD031F1957E2A737 /* UIImageView+SGSImageLoad.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+SGSImageLoad.h"; sourceTree = "<group>"; };
-		FD30584AA6B0E24A637699D40CE8C452 /* Pods-SGSUtilities_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGSUtilities_Example-dummy.m"; sourceTree = "<group>"; };
+		97F08ED0BF0600AB9A786746D61FC6F3 /* SGSCityPickerController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCityPickerController.m; path = SGSUtilities/Classes/CityPicker/SGSCityPickerController.m; sourceTree = "<group>"; };
+		A21B47ABD17900BA62D88C4C394B0020 /* SGSToast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSToast.h; path = SGSUtilities/Classes/Toast/SGSToast.h; sourceTree = "<group>"; };
+		A2D0CD5865C3C8A161648DC5E6FDDEEF /* SGSCityPickerDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityPickerDefine.h; path = SGSUtilities/Classes/CityPicker/SGSCityPickerDefine.h; sourceTree = "<group>"; };
+		A66BEEB68B18476DB807E9C3DD472D39 /* Pods-SGSUtilities_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGSUtilities_Tests-umbrella.h"; sourceTree = "<group>"; };
+		A6E5593C8BC816BAB81EA954790A8F44 /* SGSAppUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSAppUtil.h; path = SGSUtilities/Classes/AppUtil/SGSAppUtil.h; sourceTree = "<group>"; };
+		A7B017BC0A2A24A7733F2FC756B6C5E5 /* Pods_SGSUtilities_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGSUtilities_Tests.framework; path = "Pods-SGSUtilities_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9920A79F408C90A19EC25E5CA9F0D9D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB29022E79F73F2886E35CB38AAFC1AC /* Pods-SGSUtilities_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SGSUtilities_Tests.modulemap"; sourceTree = "<group>"; };
+		AC921E1EA0C9EE644F36870607E51F85 /* SGSNetUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSNetUtil.h; path = SGSUtilities/Classes/NetworkUtil/SGSNetUtil.h; sourceTree = "<group>"; };
+		AFCE8EFF3A52CB5F82905154887BE07D /* SGSCountdownableButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCountdownableButton.h; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownableButton.h; sourceTree = "<group>"; };
+		B8C15CD028C7E670E9C88DEC3E0E96E2 /* Pods-SGSUtilities_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGSUtilities_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BDF682D477FA889A95EE410DC6E7FBE5 /* UIImageView+SGSImageLoad.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+SGSImageLoad.h"; path = "SGSUtilities/Classes/ImageUtil/UIImageView+SGSImageLoad.h"; sourceTree = "<group>"; };
+		C0164099498B2928A051B208FC8EA4F7 /* SGSCityItemsCollectionViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCityItemsCollectionViewCell.m; path = SGSUtilities/Classes/CityPicker/SGSCityItemsCollectionViewCell.m; sourceTree = "<group>"; };
+		C46BA38D3EA1D9246A0887AA8947FD1F /* SGSNetUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSNetUtil.m; path = SGSUtilities/Classes/NetworkUtil/SGSNetUtil.m; sourceTree = "<group>"; };
+		C6DB3EF92BE9B76CCB370015789E7BBA /* Pods-SGSUtilities_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGSUtilities_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		CA886168ACEA2900FD38236B7984CB00 /* SGSCityLocationTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityLocationTableViewCell.h; path = SGSUtilities/Classes/CityPicker/SGSCityLocationTableViewCell.h; sourceTree = "<group>"; };
+		CF3B58E9DB066E2ACE922092EF975C02 /* SGSCityTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSCityTableViewCell.h; path = SGSUtilities/Classes/CityPicker/SGSCityTableViewCell.h; sourceTree = "<group>"; };
+		D0D99E591D68843490373CD9775C1A8B /* SGSBaseTableViewProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSBaseTableViewProtocol.h; path = SGSUtilities/Classes/TableViewUtil/SGSBaseTableViewProtocol.h; sourceTree = "<group>"; };
+		D16650A097D8AFA5B5BB5A78C4C36BA0 /* SGSUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SGSUtilities.framework; path = SGSUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5EB88AB3D5853CA175BF330E9F5F4EE /* SGSCityPicker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SGSCityPicker.bundle; path = "SGSUtilities-SGSCityPicker.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D78D6796210C86D9582E67AB6129287A /* SGSUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSUtilities.h; path = SGSUtilities/Classes/SGSUtilities.h; sourceTree = "<group>"; };
+		DA24B7652469E8E3375FAA5D9ECF7031 /* SGSCountdownableButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSCountdownableButton.m; path = SGSUtilities/Classes/CountdownUtil/SGSCountdownableButton.m; sourceTree = "<group>"; };
+		DBFD39A605A514BFC6634F7F38EA2EC7 /* SGSSystemUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SGSSystemUtil.m; path = SGSUtilities/Classes/SystemUtil/SGSSystemUtil.m; sourceTree = "<group>"; };
+		DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SGSUtilities.xcconfig; sourceTree = "<group>"; };
+		E24AE780E41D47455476CFCE4EA20AF4 /* UIImageView+SGSImageLoad.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+SGSImageLoad.m"; path = "SGSUtilities/Classes/ImageUtil/UIImageView+SGSImageLoad.m"; sourceTree = "<group>"; };
+		E348E94FFE819FE2A2A7C88BDA8233ED /* SGSUtilities.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = SGSUtilities.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E3DF9291891F09E5B1305085B79C28F4 /* SGSMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SGSMacros.h; path = SGSUtilities/Classes/SGSMacros.h; sourceTree = "<group>"; };
+		E918C55EE3EA53DCA3F1B49DE4767ED5 /* CityList.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = CityList.plist; path = SGSUtilities/Assets/CityList.plist; sourceTree = "<group>"; };
+		EF8F4242BC265D91DF8284FB229D27A2 /* Pods-SGSUtilities_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGSUtilities_Tests-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,7 +173,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F2AF4F81CF0B6DA335820E6C259E1B7 /* Foundation.framework in Frameworks */,
+				7357EB8A1A3A679CA3B6DEB9F7E231A6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,609 +184,322 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		81865915AB2A02D74E6C51D5AAFC9AAC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CB204F230EFE38DF1FF86ADE456EDA3B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8D97F752A16F9078F865542849530FDB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20E75785FF6A2A1938C46AFBBF9F0FE2 /* CoreGraphics.framework in Frameworks */,
-				EEB35F0EBECBB90455C0A79B7250A26E /* CoreTelephony.framework in Frameworks */,
-				2AEE8C8358F160958DBDA5C175B8A185 /* Foundation.framework in Frameworks */,
-				F5933700DA24427D214C0AAA0A64E96C /* UIKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A6CEDB4154A5C6803CA740F032D03A8B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0040E3F60B1977B915DA543CEE2FFDCA /* Foundation.framework in Frameworks */,
+				8732CE76A272B1C4AFE3A77AEBE0C717 /* CoreGraphics.framework in Frameworks */,
+				7162AB6D6EFE8EEE48B879BB4C955021 /* CoreTelephony.framework in Frameworks */,
+				CC16CA96EEFEEFCE5055E0715BF2E899 /* Foundation.framework in Frameworks */,
+				BDDE4F6DF56DC203581D6BA5800825EE /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		028F6EDF7092B0C707EF3AB36C23D7C2 /* SGSUtilities */ = {
+		02FA48311A5895B737696F6EB69F9C84 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				D4AC8DF6FC88AB67850D157DC525B435 /* Classes */,
+				192F44F4F2E54F389B49A2F9893A3CE7 /* LICENSE */,
+				92D3A6D11AA0F9D6CC3851F7A8A68182 /* README.md */,
+				E348E94FFE819FE2A2A7C88BDA8233ED /* SGSUtilities.podspec */,
 			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		062D74F243C81CCC94FE45FC27A5F034 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				CB4A5358E7ED1867E521E10DDE1BA702 /* Assets */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		10B49CB882EE40FB5A08CB845EFAC493 /* Pods-SGSUtilities_Example */ = {
-			isa = PBXGroup;
-			children = (
-				C946E0211D1BD900B0C57B5B022FB226 /* Info.plist */,
-				E8A419EDFE9B8929E0210EB788E076B5 /* Pods-SGSUtilities_Example.modulemap */,
-				72EC0AD8E2FB5E557B7710EDBF9CE921 /* Pods-SGSUtilities_Example-acknowledgements.markdown */,
-				DF4979D036D02402A211AADE21739319 /* Pods-SGSUtilities_Example-acknowledgements.plist */,
-				FD30584AA6B0E24A637699D40CE8C452 /* Pods-SGSUtilities_Example-dummy.m */,
-				C05DE96A29A60F5268C7BD81747F0EFE /* Pods-SGSUtilities_Example-frameworks.sh */,
-				84B287E790F72429B1555914B40BCB5E /* Pods-SGSUtilities_Example-resources.sh */,
-				BCE6D1982AF8420A394756B977FA304B /* Pods-SGSUtilities_Example-umbrella.h */,
-				7EEF20E37A62FB96FC51A24236021A50 /* Pods-SGSUtilities_Example.debug.xcconfig */,
-				29D897174B595E2B6C495F5463467A0B /* Pods-SGSUtilities_Example.release.xcconfig */,
-			);
-			name = "Pods-SGSUtilities_Example";
-			path = "Target Support Files/Pods-SGSUtilities_Example";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C46E1DDCF696ACD04C2351EED7B135A0 /* iOS */,
+				7037909457C1B7F329833005E314EBBA /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		160BDD92B4E929504E835DA9639B60F8 /* Classes */ = {
+		223D16AD1494825DCC5279C57EBFF73C /* SGSUtilities */ = {
 			isa = PBXGroup;
 			children = (
-				B8AF0BA3FFDD1E3125CBB205053C5333 /* CityPicker */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		17E7E985BCAC5F8A4E82A7F6B231354F /* CountdownUtil */ = {
-			isa = PBXGroup;
-			children = (
-				983108244AD32FB8C2DB634C22E07C1E /* SGSCountdownableButton.h */,
-				553F9D012FF5A6F188103F8339D01A68 /* SGSCountdownableButton.m */,
-				26F508B73BBF8E82E8F8DB728B31EFA4 /* SGSCountdownManager.h */,
-				62BB0698BA22EA561D431725FCA63D0C /* SGSCountdownManager.m */,
-				70E45E48284E3F79443632175C7ADB69 /* SGSCountdownTask.h */,
-				BD16A2E503FEC3F201869701A067C1AF /* SGSCountdownTask.m */,
-			);
-			name = CountdownUtil;
-			path = CountdownUtil;
-			sourceTree = "<group>";
-		};
-		1824A6CECA3D314C7EA60F4C55C29A13 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				9BD52EA3FE7765CB9DEB7ABC6B107F6B /* SGSUtilities */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		217D93354BFF6E203B2379696C130136 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				E70F95824BAC5FDE380567EED120CEBC /* Classes */,
+				E3DF9291891F09E5B1305085B79C28F4 /* SGSMacros.h */,
+				D78D6796210C86D9582E67AB6129287A /* SGSUtilities.h */,
+				5B916FD99038AFE357A36AF31036FDEB /* AppUtil */,
+				91EEB697C10922103FA2BA566744F743 /* BannerView */,
+				B0923EE5008B4924B342B2F020B14CC9 /* CityPicker */,
+				F47B9F6A9A0676E5499893E768C3BBEC /* CountdownUtil */,
+				7945BCDE4D158AAC49D1C783BFBB6473 /* DeviceUtil */,
+				E4F9475B9DCA390D692888A84C55BADE /* ImageUtil */,
+				882D07DB04FFE12FDD0BC835D2ECECAA /* NetworkUtil */,
+				02FA48311A5895B737696F6EB69F9C84 /* Pod */,
+				B39A5D02F10FD5789B15B037D5A4853F /* Support Files */,
+				4647BC8A9BE555E11F6055239F3DFF7B /* SystemUtil */,
+				428B7CB649AEE5BFC1FFB8B2265AB33C /* TableViewUtil */,
+				A1865C6B5AA0B522D7751E6810D7F490 /* Toast */,
 			);
 			name = SGSUtilities;
-			path = SGSUtilities;
+			path = ../..;
 			sourceTree = "<group>";
 		};
-		22EAB088ADF096F0BA95F81CCC8657B0 /* Toast */ = {
+		428B7CB649AEE5BFC1FFB8B2265AB33C /* TableViewUtil */ = {
 			isa = PBXGroup;
 			children = (
-				7764165DA3204C8FDB0F14C34A814116 /* SGSToast.h */,
-				920DAAD2914955E3D677FBBF42D17FD3 /* SGSToast.m */,
-				6507408497968D434FF6A11C35B6F959 /* UIViewController+SGSToast.h */,
-				6A760C5BE666B70FC1197BFC50A8F25A /* UIViewController+SGSToast.m */,
-			);
-			name = Toast;
-			path = Toast;
-			sourceTree = "<group>";
-		};
-		23217312C65D10F2DCDA04914A1317D7 /* TableViewUtil */ = {
-			isa = PBXGroup;
-			children = (
-				06D90A9DB28C22A5A63FCC85B0D9F36C /* SGSBaseTableViewProtocol.h */,
-				AF0E44284A73CDDA627AE84E279FD117 /* SGSBaseTableViewProtocol.m */,
+				D0D99E591D68843490373CD9775C1A8B /* SGSBaseTableViewProtocol.h */,
+				27C65C51F3CE92D0C6F1B2A53B6C6F2D /* SGSBaseTableViewProtocol.m */,
 			);
 			name = TableViewUtil;
-			path = TableViewUtil;
 			sourceTree = "<group>";
 		};
-		294F6709184B82D1B75839F21FD27146 /* CountdownUtil */ = {
+		4647BC8A9BE555E11F6055239F3DFF7B /* SystemUtil */ = {
 			isa = PBXGroup;
 			children = (
-				F5C67880145BE0C01A74CE5A6AC724A1 /* SGSUtilities */,
+				5C7D4C44533CCB9BC2F958F4FB5F8693 /* SGSSystemUtil.h */,
+				DBFD39A605A514BFC6634F7F38EA2EC7 /* SGSSystemUtil.m */,
 			);
-			name = CountdownUtil;
+			name = SystemUtil;
 			sourceTree = "<group>";
 		};
-		3523B2AA666ED175BC5E0FC7A396359A /* Classes */ = {
+		4A3A59C166DDB0B25BC64318D2D27C44 /* Pods-SGSUtilities_Example */ = {
 			isa = PBXGroup;
 			children = (
-				62BB1D8443DBF9539C4F6DFC81373F9D /* SystemUtil */,
+				0FE149B8BB1CBE2FE3D5F37A01FF2A1A /* Info.plist */,
+				29FCC4F5ED1231D21EFF64DB4FDDB281 /* Pods-SGSUtilities_Example.modulemap */,
+				B8C15CD028C7E670E9C88DEC3E0E96E2 /* Pods-SGSUtilities_Example-acknowledgements.markdown */,
+				87A4B3346E97550407B3B5D2A699AF96 /* Pods-SGSUtilities_Example-acknowledgements.plist */,
+				76C2D8CE6DD1671AEAB8B91F7EA10A71 /* Pods-SGSUtilities_Example-dummy.m */,
+				5C571BC8F55F41D31EC8C853DF69E1E0 /* Pods-SGSUtilities_Example-frameworks.sh */,
+				598A49DA3F87155C12F9BB4615C61426 /* Pods-SGSUtilities_Example-resources.sh */,
+				7E9FF0925F851690B2DC6DBFF295F166 /* Pods-SGSUtilities_Example-umbrella.h */,
+				C6DB3EF92BE9B76CCB370015789E7BBA /* Pods-SGSUtilities_Example.debug.xcconfig */,
+				610D5C2B95594FF3F9A9BD4F4D7705F8 /* Pods-SGSUtilities_Example.release.xcconfig */,
 			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		37164443EF92E1238A23B0B37B7DD215 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				22EAB088ADF096F0BA95F81CCC8657B0 /* Toast */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		379A0F5723E3D4D2AF49CF2C9DF22811 /* Toast */ = {
-			isa = PBXGroup;
-			children = (
-				9A05A87E25FBC182F5D22A37AA048D4D /* SGSUtilities */,
-			);
-			name = Toast;
-			sourceTree = "<group>";
-		};
-		3EE3B00E431189824CF4D5B6BD8F2FB1 /* Pods-SGSUtilities_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				11E90CA320447C083349F821FD3E07C6 /* Info.plist */,
-				F7E21214CD147318914D29005F59E0EB /* Pods-SGSUtilities_Tests.modulemap */,
-				A5112C22E9DBD073AC611F1C55CC1915 /* Pods-SGSUtilities_Tests-acknowledgements.markdown */,
-				CFA10C376F923F30B5D99ABD5B22DAEE /* Pods-SGSUtilities_Tests-acknowledgements.plist */,
-				D8A17D1A3B7D46E7E54BC41EEA348AF0 /* Pods-SGSUtilities_Tests-dummy.m */,
-				CEB9CC5E0214CFFA732031B839F424A1 /* Pods-SGSUtilities_Tests-frameworks.sh */,
-				6CDCA4A0F88CEE43DD72D8E3ADA876F2 /* Pods-SGSUtilities_Tests-resources.sh */,
-				3FE3665FAF461781AF63F93ED16931FE /* Pods-SGSUtilities_Tests-umbrella.h */,
-				DF05F78CBEAB1254A61D3C8F648D1F48 /* Pods-SGSUtilities_Tests.debug.xcconfig */,
-				BDC590CA5688213A6292F4ED93DE2A14 /* Pods-SGSUtilities_Tests.release.xcconfig */,
-			);
-			name = "Pods-SGSUtilities_Tests";
-			path = "Target Support Files/Pods-SGSUtilities_Tests";
-			sourceTree = "<group>";
-		};
-		46A9F8A1A5D7FE07766E9417084BD2A5 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				88CED135EF152CEB32A241BE828943FB /* Info.plist */,
-				34C3E891BC6F7165C7D7AABBEB77D0DB /* ResourceBundle-SGSCityPicker-Info.plist */,
-				B2DEBE10D7BF7C1FAF5717B93F3E1C8F /* SGSUtilities.modulemap */,
-				1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */,
-				598FF158C9DFA2148CB0FCD8281539F1 /* SGSUtilities-dummy.m */,
-				AE415159D70FF794709F90BAC3E676F4 /* SGSUtilities-prefix.pch */,
-				EA495BD548E4F7A040206082FEC192B1 /* SGSUtilities-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SGSUtilities";
+			name = "Pods-SGSUtilities_Example";
+			path = "Target Support Files/Pods-SGSUtilities_Example";
 			sourceTree = "<group>";
 		};
 		4FFADDA5F05B7C2442C8E23BD6743B0B /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				10B49CB882EE40FB5A08CB845EFAC493 /* Pods-SGSUtilities_Example */,
-				3EE3B00E431189824CF4D5B6BD8F2FB1 /* Pods-SGSUtilities_Tests */,
+				4A3A59C166DDB0B25BC64318D2D27C44 /* Pods-SGSUtilities_Example */,
+				AB6C22472D8AEB0271FF5D7BBBD346A8 /* Pods-SGSUtilities_Tests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		5BB4DCEF4EF62DB3AEFB3429CA3D940F /* Classes */ = {
+		5020A48E238F76F4FC98D6A52E6A0DF9 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A57186FF3F63B062D1B0D3745C300C48 /* NetworkUtil */,
+				223D16AD1494825DCC5279C57EBFF73C /* SGSUtilities */,
 			);
-			name = Classes;
-			path = Classes;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		5FDABE12AC4A1977976B7C33179A652F /* Classes */ = {
+		5B916FD99038AFE357A36AF31036FDEB /* AppUtil */ = {
 			isa = PBXGroup;
 			children = (
-				6355B81CBCA2BC246E8E178E0F18F683 /* BannerView */,
+				A6E5593C8BC816BAB81EA954790A8F44 /* SGSAppUtil.h */,
+				027D4D54C41FE2E107CC4A7DE0EA00CF /* SGSAppUtil.m */,
 			);
-			name = Classes;
-			path = Classes;
+			name = AppUtil;
 			sourceTree = "<group>";
 		};
-		62BB1D8443DBF9539C4F6DFC81373F9D /* SystemUtil */ = {
+		7037909457C1B7F329833005E314EBBA /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				BC1DE8C534214FDF5A517884D5DC459E /* SGSSystemUtil.h */,
-				9A42A91F28C7548E137493275A935F5C /* SGSSystemUtil.m */,
+				7534A3441335A6A14641724A26020530 /* CoreGraphics.framework */,
+				177BB6696DD76F3E5BDA3465007125BF /* CoreTelephony.framework */,
+				7EABF520268DC576C919C4935E460A86 /* Foundation.framework */,
+				619B9C22C782E6EA071BFB94A9F836C5 /* UIKit.framework */,
 			);
-			name = SystemUtil;
-			path = SystemUtil;
+			name = iOS;
 			sourceTree = "<group>";
 		};
-		6355B81CBCA2BC246E8E178E0F18F683 /* BannerView */ = {
+		7945BCDE4D158AAC49D1C783BFBB6473 /* DeviceUtil */ = {
 			isa = PBXGroup;
 			children = (
-				35E8774A5537D50A3321324A2C41537D /* SGSBannerView.h */,
-				EAF796DEE07B8A58AEF8026254EA1D8F /* SGSBannerView.m */,
+				71DAC4E9D32BE40D027B384CF8CE3A37 /* SGSDeviceUtil.h */,
+				77672589636FEFCA79F64D7AFE81D46B /* SGSDeviceUtil.m */,
 			);
-			name = BannerView;
-			path = BannerView;
-			sourceTree = "<group>";
-		};
-		638BA2F2C848C07F07398484EFBDB1E0 /* CityPicker */ = {
-			isa = PBXGroup;
-			children = (
-				FC3195AA9062ECBED0534B5500E603AE /* Resources */,
-				85003DA0F28D69B02580E0D3A2B20026 /* SGSUtilities */,
-			);
-			name = CityPicker;
-			sourceTree = "<group>";
-		};
-		7325AE7ED1D8752A8EABC768B9B120DD /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				5861A45908DC39A37F2F0420E8AFBF0B /* Pods_SGSUtilities_Example.framework */,
-				11ED4E7028403A0BEB9A4167EB15C81D /* Pods_SGSUtilities_Tests.framework */,
-				E7838D5FCF146009DA62FE049F4AF403 /* SGSCityPicker.bundle */,
-				4414C9742E7ED7CF85BF7D7DEA1354AA /* SGSUtilities.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		779BE2015D07C403CAEF875F3D1A8863 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				17E7E985BCAC5F8A4E82A7F6B231354F /* CountdownUtil */,
-			);
-			name = Classes;
-			path = Classes;
+			name = DeviceUtil;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				1824A6CECA3D314C7EA60F4C55C29A13 /* Development Pods */,
+				5020A48E238F76F4FC98D6A52E6A0DF9 /* Development Pods */,
 				14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */,
-				7325AE7ED1D8752A8EABC768B9B120DD /* Products */,
+				C6D06D761F82E920CF3B3DF1DA24A7D6 /* Products */,
 				4FFADDA5F05B7C2442C8E23BD6743B0B /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		7DF81C28D77315E9CD122943A2813A4D /* BannerView */ = {
+		882D07DB04FFE12FDD0BC835D2ECECAA /* NetworkUtil */ = {
 			isa = PBXGroup;
 			children = (
-				C60D1EBD9115351421D8C93A0F3C4D00 /* SGSUtilities */,
+				AC921E1EA0C9EE644F36870607E51F85 /* SGSNetUtil.h */,
+				C46BA38D3EA1D9246A0887AA8947FD1F /* SGSNetUtil.m */,
+			);
+			name = NetworkUtil;
+			sourceTree = "<group>";
+		};
+		91EEB697C10922103FA2BA566744F743 /* BannerView */ = {
+			isa = PBXGroup;
+			children = (
+				3DE4A51BD4FAA2B595AE3F5FB01F971D /* SGSBannerView.h */,
+				3CE1C3D3F40CEBEA9F2D8DAC881C4E52 /* SGSBannerView.m */,
 			);
 			name = BannerView;
 			sourceTree = "<group>";
 		};
-		85003DA0F28D69B02580E0D3A2B20026 /* SGSUtilities */ = {
+		A1865C6B5AA0B522D7751E6810D7F490 /* Toast */ = {
 			isa = PBXGroup;
 			children = (
-				160BDD92B4E929504E835DA9639B60F8 /* Classes */,
+				A21B47ABD17900BA62D88C4C394B0020 /* SGSToast.h */,
+				8FFE1F1DB09667FC38CD3250DF519D4F /* SGSToast.m */,
+				22DC6D30CF3C3CA75A15E10D8F3A2DEE /* UIViewController+SGSToast.h */,
+				27A0E3548FD46007687D001E0586141E /* UIViewController+SGSToast.m */,
 			);
-			name = SGSUtilities;
-			path = SGSUtilities;
+			name = Toast;
 			sourceTree = "<group>";
 		};
-		88CD3FA8902242BCED2CCBD6B2A0C1ED /* NetworkUtil */ = {
+		AB6C22472D8AEB0271FF5D7BBBD346A8 /* Pods-SGSUtilities_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				C07C422B382A2FB72C409BFEE388DA74 /* SGSUtilities */,
+				0214C72BC5A461572A4284B4E6F6102F /* Info.plist */,
+				AB29022E79F73F2886E35CB38AAFC1AC /* Pods-SGSUtilities_Tests.modulemap */,
+				16208EBF0E847CE1BA3C14E8695985A3 /* Pods-SGSUtilities_Tests-acknowledgements.markdown */,
+				736160F3892F910F4A096538D423AA1B /* Pods-SGSUtilities_Tests-acknowledgements.plist */,
+				EF8F4242BC265D91DF8284FB229D27A2 /* Pods-SGSUtilities_Tests-dummy.m */,
+				369417FDA8C6C3F9EC1A3A6D92C25070 /* Pods-SGSUtilities_Tests-frameworks.sh */,
+				7A80AF1DD19E807CCA02128BB7B0348F /* Pods-SGSUtilities_Tests-resources.sh */,
+				A66BEEB68B18476DB807E9C3DD472D39 /* Pods-SGSUtilities_Tests-umbrella.h */,
+				8B9EFD6B6551A8E9A97CB0271C11FFC7 /* Pods-SGSUtilities_Tests.debug.xcconfig */,
+				2C417ECD8C95E7043E322863A041278A /* Pods-SGSUtilities_Tests.release.xcconfig */,
 			);
-			name = NetworkUtil;
+			name = "Pods-SGSUtilities_Tests";
+			path = "Target Support Files/Pods-SGSUtilities_Tests";
 			sourceTree = "<group>";
 		};
-		92730D877827B8E2106855F334EB8FCA /* DeviceUtil */ = {
+		B0923EE5008B4924B342B2F020B14CC9 /* CityPicker */ = {
 			isa = PBXGroup;
 			children = (
-				217D93354BFF6E203B2379696C130136 /* SGSUtilities */,
-			);
-			name = DeviceUtil;
-			sourceTree = "<group>";
-		};
-		98D112ECA9E9763873AD338F4F4E4A72 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				CEA80833D0ED6116855224286B6E1DEA /* AppUtil */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		9A05A87E25FBC182F5D22A37AA048D4D /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				37164443EF92E1238A23B0B37B7DD215 /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		9BD52EA3FE7765CB9DEB7ABC6B107F6B /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				AB4FFB3710777851C1652276EF8876D3 /* AppUtil */,
-				7DF81C28D77315E9CD122943A2813A4D /* BannerView */,
-				638BA2F2C848C07F07398484EFBDB1E0 /* CityPicker */,
-				294F6709184B82D1B75839F21FD27146 /* CountdownUtil */,
-				92730D877827B8E2106855F334EB8FCA /* DeviceUtil */,
-				BC1A26BCA6247BE000B5C05291B2586D /* ImageUtil */,
-				88CD3FA8902242BCED2CCBD6B2A0C1ED /* NetworkUtil */,
-				028F6EDF7092B0C707EF3AB36C23D7C2 /* SGSUtilities */,
-				46A9F8A1A5D7FE07766E9417084BD2A5 /* Support Files */,
-				A25C48B3394A969DA22D60A084702409 /* SystemUtil */,
-				D6B35EF40D9F33BAF6737984F1A39273 /* TableViewUtil */,
-				379A0F5723E3D4D2AF49CF2C9DF22811 /* Toast */,
-			);
-			name = SGSUtilities;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		9DFDC980D55A0DDDDF7CEA3238EFA524 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				B6112417917ACB23CD52D902DBB53431 /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		A25C48B3394A969DA22D60A084702409 /* SystemUtil */ = {
-			isa = PBXGroup;
-			children = (
-				F33BC24BC725A5F606F5975C9992C52E /* SGSUtilities */,
-			);
-			name = SystemUtil;
-			sourceTree = "<group>";
-		};
-		A57186FF3F63B062D1B0D3745C300C48 /* NetworkUtil */ = {
-			isa = PBXGroup;
-			children = (
-				D46F9F1B7E44439EAACE15EE0250E6C2 /* SGSNetUtil.h */,
-				6A5734190288673DFFE854ED17A02CF5 /* SGSNetUtil.m */,
-			);
-			name = NetworkUtil;
-			path = NetworkUtil;
-			sourceTree = "<group>";
-		};
-		AB4FFB3710777851C1652276EF8876D3 /* AppUtil */ = {
-			isa = PBXGroup;
-			children = (
-				F07ED56E1D3AB17711F7B5D5318204B3 /* SGSUtilities */,
-			);
-			name = AppUtil;
-			sourceTree = "<group>";
-		};
-		AEE60AA18883C71D4B53C8FAD5F6226B /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				E8CF1F8B3767A5610C60DAA2AF0419D4 /* ImageUtil */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		B439FCEB4BAD44D990215F22C0FE0B65 /* DeviceUtil */ = {
-			isa = PBXGroup;
-			children = (
-				4E8C31AE5D1BFB2CDB38CA8BA58622C3 /* SGSDeviceUtil.h */,
-				0EC80FA0D2FE7CECD7465FCA7229B25E /* SGSDeviceUtil.m */,
-			);
-			name = DeviceUtil;
-			path = DeviceUtil;
-			sourceTree = "<group>";
-		};
-		B5617C26C08E4216F480BF3DB25D7E79 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				AEE60AA18883C71D4B53C8FAD5F6226B /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		B6112417917ACB23CD52D902DBB53431 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				23217312C65D10F2DCDA04914A1317D7 /* TableViewUtil */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		B8AF0BA3FFDD1E3125CBB205053C5333 /* CityPicker */ = {
-			isa = PBXGroup;
-			children = (
-				377697224A2E5C93BF4800DD56A54263 /* SGSCityItemsCollectionViewCell.h */,
-				C77C0C5A2F7B509C6F87CB27237B4F87 /* SGSCityItemsCollectionViewCell.m */,
-				FAFEF3623EF9D829EE20AFF0B49AC63D /* SGSCityItemsTableViewCell.h */,
-				06207875BCCB44F3D7BF0A9CBC9748DE /* SGSCityItemsTableViewCell.m */,
-				8F0BE332A50F4A3E7BE90C5BB0144425 /* SGSCityLocationTableViewCell.h */,
-				20047A291EAAF0C2F691088CB242218C /* SGSCityLocationTableViewCell.m */,
-				8B935BDA50BEAB67BA67874AA97FDF9B /* SGSCityPickerController.h */,
-				4945E6921213A18B960E3FE9CEFBE05E /* SGSCityPickerController.m */,
-				053EB8881662D8D372F20D619AF1CB2C /* SGSCityPickerDefine.h */,
-				87D83F32A329778E31D2ED3A8F21ABF5 /* SGSCityTableViewCell.h */,
-				069A9E2D14FD05F845CA7F27DA8825FA /* SGSCityTableViewCell.m */,
+				8667230F7051F07E1D10D0A823E3828B /* SGSCityItemsCollectionViewCell.h */,
+				C0164099498B2928A051B208FC8EA4F7 /* SGSCityItemsCollectionViewCell.m */,
+				25D55A55293B70A0D06E12E79CEAFB0E /* SGSCityItemsTableViewCell.h */,
+				5CDF583CFD0AA23188DF1E28BEE78715 /* SGSCityItemsTableViewCell.m */,
+				CA886168ACEA2900FD38236B7984CB00 /* SGSCityLocationTableViewCell.h */,
+				0F165FE7458F2789DDAC88D28C2C65E7 /* SGSCityLocationTableViewCell.m */,
+				6DB1CAB0C251E5583BB18C76CB1A5E99 /* SGSCityPickerController.h */,
+				97F08ED0BF0600AB9A786746D61FC6F3 /* SGSCityPickerController.m */,
+				A2D0CD5865C3C8A161648DC5E6FDDEEF /* SGSCityPickerDefine.h */,
+				CF3B58E9DB066E2ACE922092EF975C02 /* SGSCityTableViewCell.h */,
+				45F862965E51E57C4A07742866D62050 /* SGSCityTableViewCell.m */,
+				D83143B99B33E05A542F554B1DAFE312 /* Resources */,
 			);
 			name = CityPicker;
-			path = CityPicker;
 			sourceTree = "<group>";
 		};
-		BC1A26BCA6247BE000B5C05291B2586D /* ImageUtil */ = {
+		B39A5D02F10FD5789B15B037D5A4853F /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				B5617C26C08E4216F480BF3DB25D7E79 /* SGSUtilities */,
+				A9920A79F408C90A19EC25E5CA9F0D9D /* Info.plist */,
+				229A73C76D959020DBC91ACA1A959611 /* ResourceBundle-SGSCityPicker-Info.plist */,
+				91F0585731A8C7131F897792DB583164 /* SGSUtilities.modulemap */,
+				DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */,
+				287DF462283909E71B3605E5F1563072 /* SGSUtilities-dummy.m */,
+				4F60C77C35136AB5BAC3584CD22A372A /* SGSUtilities-prefix.pch */,
+				54BCFD28134F4F035FE43D5BF166D8FE /* SGSUtilities-umbrella.h */,
 			);
-			name = ImageUtil;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/SGSUtilities";
 			sourceTree = "<group>";
 		};
-		C07C422B382A2FB72C409BFEE388DA74 /* SGSUtilities */ = {
+		C6D06D761F82E920CF3B3DF1DA24A7D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5BB4DCEF4EF62DB3AEFB3429CA3D940F /* Classes */,
+				3089F62DA980FAA2E50CF1CC706194E8 /* Pods_SGSUtilities_Example.framework */,
+				A7B017BC0A2A24A7733F2FC756B6C5E5 /* Pods_SGSUtilities_Tests.framework */,
+				D5EB88AB3D5853CA175BF330E9F5F4EE /* SGSCityPicker.bundle */,
+				D16650A097D8AFA5B5BB5A78C4C36BA0 /* SGSUtilities.framework */,
 			);
-			name = SGSUtilities;
-			path = SGSUtilities;
+			name = Products;
 			sourceTree = "<group>";
 		};
-		C46E1DDCF696ACD04C2351EED7B135A0 /* iOS */ = {
+		D83143B99B33E05A542F554B1DAFE312 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				27B2FC5D6D175BDDC25F98A665FE652D /* CoreGraphics.framework */,
-				3854B5653FF2C2A24A311B10E923D1C2 /* CoreTelephony.framework */,
-				B5CE09877D8645FC6F760ED071211F82 /* Foundation.framework */,
-				9D52DF8DD4F84666796ABF0166B0CF60 /* UIKit.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		C60D1EBD9115351421D8C93A0F3C4D00 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				5FDABE12AC4A1977976B7C33179A652F /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		CB4A5358E7ED1867E521E10DDE1BA702 /* Assets */ = {
-			isa = PBXGroup;
-			children = (
-				DECEAE360E1AD35149B2FDFDB45ECA6A /* CityList.plist */,
-			);
-			name = Assets;
-			path = Assets;
-			sourceTree = "<group>";
-		};
-		CEA80833D0ED6116855224286B6E1DEA /* AppUtil */ = {
-			isa = PBXGroup;
-			children = (
-				AD52330FCF347531F4B424A8CC39DF22 /* SGSAppUtil.h */,
-				B5E91BCE453B7946CEF2D73CEC07D587 /* SGSAppUtil.m */,
-			);
-			name = AppUtil;
-			path = AppUtil;
-			sourceTree = "<group>";
-		};
-		D4AC8DF6FC88AB67850D157DC525B435 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				A2819AF63A3E04586E32E6F2C5CBF912 /* SGSMacros.h */,
-				5B4EE50466C060907FB61F5963A5A22E /* SGSUtilities.h */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		D6B35EF40D9F33BAF6737984F1A39273 /* TableViewUtil */ = {
-			isa = PBXGroup;
-			children = (
-				9DFDC980D55A0DDDDF7CEA3238EFA524 /* SGSUtilities */,
-			);
-			name = TableViewUtil;
-			sourceTree = "<group>";
-		};
-		E70F95824BAC5FDE380567EED120CEBC /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				B439FCEB4BAD44D990215F22C0FE0B65 /* DeviceUtil */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		E8CF1F8B3767A5610C60DAA2AF0419D4 /* ImageUtil */ = {
-			isa = PBXGroup;
-			children = (
-				13FB78AB06E5BC0AB9954A72792D7FD7 /* SGSImageCache.h */,
-				B3664566EEE332EB4089225DCBEC716B /* SGSImageCache.m */,
-				FD12F3212B456DCEBD031F1957E2A737 /* UIImageView+SGSImageLoad.h */,
-				BB0AEA62DCF10D44CC5CC73E17D0570F /* UIImageView+SGSImageLoad.m */,
-			);
-			name = ImageUtil;
-			path = ImageUtil;
-			sourceTree = "<group>";
-		};
-		F07ED56E1D3AB17711F7B5D5318204B3 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				98D112ECA9E9763873AD338F4F4E4A72 /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		F33BC24BC725A5F606F5975C9992C52E /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				3523B2AA666ED175BC5E0FC7A396359A /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		F5C67880145BE0C01A74CE5A6AC724A1 /* SGSUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				779BE2015D07C403CAEF875F3D1A8863 /* Classes */,
-			);
-			name = SGSUtilities;
-			path = SGSUtilities;
-			sourceTree = "<group>";
-		};
-		FC3195AA9062ECBED0534B5500E603AE /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				062D74F243C81CCC94FE45FC27A5F034 /* SGSUtilities */,
+				E918C55EE3EA53DCA3F1B49DE4767ED5 /* CityList.plist */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		E4F9475B9DCA390D692888A84C55BADE /* ImageUtil */ = {
+			isa = PBXGroup;
+			children = (
+				4CC462D48694F1CA9B98BAF4BCA69372 /* SGSImageCache.h */,
+				43AC0D24173BB4F3DDCDB881D7C38EF0 /* SGSImageCache.m */,
+				BDF682D477FA889A95EE410DC6E7FBE5 /* UIImageView+SGSImageLoad.h */,
+				E24AE780E41D47455476CFCE4EA20AF4 /* UIImageView+SGSImageLoad.m */,
+			);
+			name = ImageUtil;
+			sourceTree = "<group>";
+		};
+		F47B9F6A9A0676E5499893E768C3BBEC /* CountdownUtil */ = {
+			isa = PBXGroup;
+			children = (
+				AFCE8EFF3A52CB5F82905154887BE07D /* SGSCountdownableButton.h */,
+				DA24B7652469E8E3375FAA5D9ECF7031 /* SGSCountdownableButton.m */,
+				1066374BAD84D46F27B1882C128E697F /* SGSCountdownManager.h */,
+				23E9CF9C9610357777CF0CB85EA6FB2B /* SGSCountdownManager.m */,
+				563B4A96FC7D3CD9B7A2FE94449B6B5B /* SGSCountdownTask.h */,
+				26BE93719EF57701F01D5B7D5928527B /* SGSCountdownTask.m */,
+			);
+			name = CountdownUtil;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		03C786047A41A39BEF93A007351E0746 /* Headers */ = {
+		28C8B474355F40ACCA6597A8F130D8A2 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C174AF76CA45ADADA7E138736ABAF2C8 /* SGSAppUtil.h in Headers */,
-				D54FAFC81223D0DFF7DB99D340B15930 /* SGSBannerView.h in Headers */,
-				5A66A28DFFBDB88C556EF54CB0335883 /* SGSBaseTableViewProtocol.h in Headers */,
-				F8D843C99CA34291AEF8E0C8BD44A6AF /* SGSCityItemsCollectionViewCell.h in Headers */,
-				36E25AEC28610158EB0DD25DDD549791 /* SGSCityItemsTableViewCell.h in Headers */,
-				8CF1E54265FAFADC1A7052A7B832CEC2 /* SGSCityLocationTableViewCell.h in Headers */,
-				D167F6B88E0576D97972BCAFF0230C1B /* SGSCityPickerController.h in Headers */,
-				D1C15E9F6B456DDCB58F4F7DC9ADDEDF /* SGSCityPickerDefine.h in Headers */,
-				09C77C57A7034D0391507D75D5E52887 /* SGSCityTableViewCell.h in Headers */,
-				A580A521BC5227C3083F620E3301C7BA /* SGSCountdownableButton.h in Headers */,
-				D7A8563501E04CF9CAA1EAC0AAE9B1DC /* SGSCountdownManager.h in Headers */,
-				07C6425C206AA27BDDFA5CE39391D352 /* SGSCountdownTask.h in Headers */,
-				FCBEA6460CF163D926F75FA2B2F231C9 /* SGSDeviceUtil.h in Headers */,
-				81E8F7D3BDAC72CAE224B13395714D50 /* SGSImageCache.h in Headers */,
-				68C61E1EC139B7609404C406D88E6D25 /* SGSMacros.h in Headers */,
-				614CE3A55435691EA88F33855DE2E308 /* SGSNetUtil.h in Headers */,
-				54F1012770CC90BF2DB9FEC7B19AD67A /* SGSSystemUtil.h in Headers */,
-				5A9DB552DE6181282D1F012F19D18CDD /* SGSToast.h in Headers */,
-				3D93D536DAFE64C1863A80FEAEEFE66A /* SGSUtilities-umbrella.h in Headers */,
-				881AEAB47158E89168FEE68EC40215D8 /* SGSUtilities.h in Headers */,
-				0006D6CE38C404D0D5932978E57BDCD0 /* UIImageView+SGSImageLoad.h in Headers */,
-				B2AAEE662E4D8B01E58939AFBB9B05C3 /* UIViewController+SGSToast.h in Headers */,
+				F776C350B9E437EB68507F3031A448BE /* SGSAppUtil.h in Headers */,
+				359C3B33DABC28D8659D288BB175CEFE /* SGSBannerView.h in Headers */,
+				A502C3FD7FB05EB7F2220AD63486FD65 /* SGSBaseTableViewProtocol.h in Headers */,
+				F5D1A3561F8CE42A0E2070B0FDC19EB8 /* SGSCityItemsCollectionViewCell.h in Headers */,
+				C64B90299BA1D76CB9D839A4121A9AC1 /* SGSCityItemsTableViewCell.h in Headers */,
+				896FD1E9B4CAC4FEAB46895968B49026 /* SGSCityLocationTableViewCell.h in Headers */,
+				45720D59EC3FCCDE123D7C66483B0F08 /* SGSCityPickerController.h in Headers */,
+				0614A0A8AC16D6817DD115C8C5E60A12 /* SGSCityPickerDefine.h in Headers */,
+				93A0B4293EF7E4F3B85A23DC2056432F /* SGSCityTableViewCell.h in Headers */,
+				7D583F9E78C597E47D9DC9252A5A6B20 /* SGSCountdownableButton.h in Headers */,
+				3BB8B83CE5EB04E30061891C8DE7656F /* SGSCountdownManager.h in Headers */,
+				21440B4F97A90A04C551005816DF8BA1 /* SGSCountdownTask.h in Headers */,
+				8925521FCF191336FD8873A3FADD4DF9 /* SGSDeviceUtil.h in Headers */,
+				A7C101F3254BBEDBA42449965F1526DF /* SGSImageCache.h in Headers */,
+				E9F99539A3DB7881799A1F9E32B48EF2 /* SGSMacros.h in Headers */,
+				D4B2E6C54A928ACA313E522E94C5D9E3 /* SGSNetUtil.h in Headers */,
+				5413BA50E8B0BE762B22F587677B1C21 /* SGSSystemUtil.h in Headers */,
+				02C4CDFA8763B91FDD1ADFAADFCA4D5F /* SGSToast.h in Headers */,
+				5B35ACE6FBCB67B66D2B798EA73FD922 /* SGSUtilities-umbrella.h in Headers */,
+				A5279C804FD817D2FD38BD950B725463 /* SGSUtilities.h in Headers */,
+				860B40D7E93AD8C734D2A5A862640538 /* UIImageView+SGSImageLoad.h in Headers */,
+				B7594862A6A12E4E553B449DF15195B6 /* UIViewController+SGSToast.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		56EC69FF457878F653A905F495AA5FBF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9C7A3273D3E58F785E1F15887E2F917 /* Pods-SGSUtilities_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -785,14 +508,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD335CCFD4FC8CF1A468EE261529CEE5 /* Pods-SGSUtilities_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D89C7399AA3D3FFCE7520D224FCD421C /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7EF63FF8B938827AA1ABF19EB2FDD14F /* Pods-SGSUtilities_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -814,7 +529,7 @@
 			);
 			name = "Pods-SGSUtilities_Example";
 			productName = "Pods-SGSUtilities_Example";
-			productReference = 5861A45908DC39A37F2F0420E8AFBF0B /* Pods_SGSUtilities_Example.framework */;
+			productReference = 3089F62DA980FAA2E50CF1CC706194E8 /* Pods_SGSUtilities_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		739DB8700F2579F2028BBE53ACB2F5C0 /* SGSUtilities-SGSCityPicker */ = {
@@ -823,7 +538,7 @@
 			buildPhases = (
 				72083518A44B2789657E380E69E1BA24 /* Sources */,
 				5468313922C830AE29433AD9A557DE9B /* Frameworks */,
-				515B3D710F790525A9DA70A72F5828C1 /* Resources */,
+				A53432498A118A107DCA36943F38C0DB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -831,34 +546,35 @@
 			);
 			name = "SGSUtilities-SGSCityPicker";
 			productName = "SGSUtilities-SGSCityPicker";
-			productReference = E7838D5FCF146009DA62FE049F4AF403 /* SGSCityPicker.bundle */;
+			productReference = D5EB88AB3D5853CA175BF330E9F5F4EE /* SGSCityPicker.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		B85BC1D51E33162E1D8970767E19A1EB /* Pods-SGSUtilities_Tests */ = {
+		D40E535BBA1EB21F247E462220DA6825 /* Pods-SGSUtilities_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 34B45E43FA5E59E82E8BC5FFDCECE0D9 /* Build configuration list for PBXNativeTarget "Pods-SGSUtilities_Tests" */;
+			buildConfigurationList = B54D63773757E32C3B296E0A76212605 /* Build configuration list for PBXNativeTarget "Pods-SGSUtilities_Tests" */;
 			buildPhases = (
-				E6FE94920815AE9CECA5222163DE7F98 /* Sources */,
-				A6CEDB4154A5C6803CA740F032D03A8B /* Frameworks */,
-				D89C7399AA3D3FFCE7520D224FCD421C /* Headers */,
+				434DF47B2C9C11A800C29C44ECCAC257 /* Sources */,
+				81865915AB2A02D74E6C51D5AAFC9AAC /* Frameworks */,
+				56EC69FF457878F653A905F495AA5FBF /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				1B9961F8E98F5BE48663ADAF906D6155 /* PBXTargetDependency */,
 			);
 			name = "Pods-SGSUtilities_Tests";
 			productName = "Pods-SGSUtilities_Tests";
-			productReference = 11ED4E7028403A0BEB9A4167EB15C81D /* Pods_SGSUtilities_Tests.framework */;
+			productReference = A7B017BC0A2A24A7733F2FC756B6C5E5 /* Pods_SGSUtilities_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F6593CE3D9898E071BEA52A9A402A263 /* SGSUtilities */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F0837DFCE845D0483EE9989EE1804377 /* Build configuration list for PBXNativeTarget "SGSUtilities" */;
 			buildPhases = (
-				1899ADA6B4F13F3374F847AE5197C5EE /* Sources */,
+				663154B0F23D300A3AF37603D9F6AEB4 /* Sources */,
 				8D97F752A16F9078F865542849530FDB /* Frameworks */,
 				DFB251B8F1C610C2F9F723C40D987D7E /* Resources */,
-				03C786047A41A39BEF93A007351E0746 /* Headers */,
+				28C8B474355F40ACCA6597A8F130D8A2 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -867,7 +583,7 @@
 			);
 			name = SGSUtilities;
 			productName = SGSUtilities;
-			productReference = 4414C9742E7ED7CF85BF7D7DEA1354AA /* SGSUtilities.framework */;
+			productReference = D16650A097D8AFA5B5BB5A78C4C36BA0 /* SGSUtilities.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -876,8 +592,8 @@
 		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0700;
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -887,12 +603,12 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 7325AE7ED1D8752A8EABC768B9B120DD /* Products */;
+			productRefGroup = C6D06D761F82E920CF3B3DF1DA24A7D6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				19D1FA038CA2E94C5D3DC99FEA856038 /* Pods-SGSUtilities_Example */,
-				B85BC1D51E33162E1D8970767E19A1EB /* Pods-SGSUtilities_Tests */,
+				D40E535BBA1EB21F247E462220DA6825 /* Pods-SGSUtilities_Tests */,
 				F6593CE3D9898E071BEA52A9A402A263 /* SGSUtilities */,
 				739DB8700F2579F2028BBE53ACB2F5C0 /* SGSUtilities-SGSCityPicker */,
 			);
@@ -900,11 +616,11 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		515B3D710F790525A9DA70A72F5828C1 /* Resources */ = {
+		A53432498A118A107DCA36943F38C0DB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DA293C2B7D2CBDFFDF6ADEA0BF0700B /* CityList.plist in Resources */,
+				CB4F4AE9B16908C71A3FD46674429264 /* CityList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -912,36 +628,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74238BD5AA5F2D8406C8649F9989DB9B /* SGSCityPicker.bundle in Resources */,
+				3999C9666954AA38D20684AB2C6E7C53 /* SGSCityPicker.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1899ADA6B4F13F3374F847AE5197C5EE /* Sources */ = {
+		434DF47B2C9C11A800C29C44ECCAC257 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2C4822E551EE6894C912C64912295B8 /* SGSAppUtil.m in Sources */,
-				4D4BABCA4458DC9AF60A6BD0F95805CB /* SGSBannerView.m in Sources */,
-				9DF3C0C52F428D6359E17493E169E0EB /* SGSBaseTableViewProtocol.m in Sources */,
-				3886F95B001DBD73690E58FC6FDD2595 /* SGSCityItemsCollectionViewCell.m in Sources */,
-				DF24F1CE193FC0444640D7E9C39B7BAF /* SGSCityItemsTableViewCell.m in Sources */,
-				808E98B53911DFE2A40B32093A1B832B /* SGSCityLocationTableViewCell.m in Sources */,
-				28E1668EE9EFED3EF29772002E40F5F3 /* SGSCityPickerController.m in Sources */,
-				9DCB7DABDD0C28C6929EC9C5F749DF7A /* SGSCityTableViewCell.m in Sources */,
-				72A15084104DF2D5C11F0708FA7C72F5 /* SGSCountdownableButton.m in Sources */,
-				E777D30BA7D7C43C32E2A1E7DBE13FC3 /* SGSCountdownManager.m in Sources */,
-				BE2250D22C9C1DDDC82D26940EA79090 /* SGSCountdownTask.m in Sources */,
-				74F865C3A9695101F378A206AC7B9A50 /* SGSDeviceUtil.m in Sources */,
-				1839C1122D3035F0FEE5E64BA24DA3A3 /* SGSImageCache.m in Sources */,
-				32BC352BF9980854BF9935404B632365 /* SGSNetUtil.m in Sources */,
-				3852F6544C4515399F2459FD72045473 /* SGSSystemUtil.m in Sources */,
-				53AA118F24E097AC657679E86A49F4FD /* SGSToast.m in Sources */,
-				0E5A417891EF3E3642B93994E920BF70 /* SGSUtilities-dummy.m in Sources */,
-				537B90FCC9DC23D720DB02DB25D6BBAA /* UIImageView+SGSImageLoad.m in Sources */,
-				AA94CCAC65BE8F3F5CAFA3D5C0480491 /* UIViewController+SGSToast.m in Sources */,
+				8E029E64A537A0D64BF5402E1EE2072E /* Pods-SGSUtilities_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		663154B0F23D300A3AF37603D9F6AEB4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B69B1B6DBC0FCBFB03632F9780E53FD5 /* SGSAppUtil.m in Sources */,
+				114D818CE89A4368D3F754D2959EFB70 /* SGSBannerView.m in Sources */,
+				15CCA1EF3F417386020320F2870F53F5 /* SGSBaseTableViewProtocol.m in Sources */,
+				BF86292EE1CC6E3FCFB99704032C18BD /* SGSCityItemsCollectionViewCell.m in Sources */,
+				13B732E37101E70F6C8EEE9A351A7922 /* SGSCityItemsTableViewCell.m in Sources */,
+				0EE31D77C8367438B9160438F0DD78CF /* SGSCityLocationTableViewCell.m in Sources */,
+				1C1E0706B29E861954ABBEEA23B38A2F /* SGSCityPickerController.m in Sources */,
+				A5D2E97C179B123D2A122AD421CBB628 /* SGSCityTableViewCell.m in Sources */,
+				ED410801FC06B38E8B8C47BB5A7BE0A3 /* SGSCountdownableButton.m in Sources */,
+				938A31F20E95913ED9C990642A2603CA /* SGSCountdownManager.m in Sources */,
+				F703E54CF6DF1663B193E024A9E39F0F /* SGSCountdownTask.m in Sources */,
+				8BC4ABD2274E18EBDB85E5592F6CD9F6 /* SGSDeviceUtil.m in Sources */,
+				910DE5F701CFB6125A40A18C3DDF1EA9 /* SGSImageCache.m in Sources */,
+				15566A23C12BBB32508DC6475C88ABFF /* SGSNetUtil.m in Sources */,
+				999994721427D00ECED71AD07B5CCB03 /* SGSSystemUtil.m in Sources */,
+				B42C99EC22748631A07E382A28BFC55E /* SGSToast.m in Sources */,
+				2B8AD6A16170F992344E95C6E5A3424D /* SGSUtilities-dummy.m in Sources */,
+				944782B889D737FCD376DDE34703A2A8 /* UIImageView+SGSImageLoad.m in Sources */,
+				8433D70A623E802FDB607004428885FB /* UIViewController+SGSToast.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -960,17 +684,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E6FE94920815AE9CECA5222163DE7F98 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0B645DB35DDE7D5367A25191358947AE /* Pods-SGSUtilities_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		1B9961F8E98F5BE48663ADAF906D6155 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-SGSUtilities_Example";
+			target = 19D1FA038CA2E94C5D3DC99FEA856038 /* Pods-SGSUtilities_Example */;
+			targetProxy = 6CD17D777A41906B498ECEE4E0E27CB6 /* PBXContainerItemProxy */;
+		};
 		2EE7474E2D69EFFDA6976A6A284741B9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SGSUtilities;
@@ -986,323 +708,351 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		015A368F878AC3E2CEAE21DDE8026304 /* Debug */ = {
+		07DB5A3E94A1960A7C649C657450985C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SGSUtilities";
+				INFOPLIST_FILE = "Target Support Files/SGSUtilities/ResourceBundle-SGSCityPicker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = SGSCityPicker;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		1E599076A3D8A445EA42C1578F3C4AC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SGSUtilities/SGSUtilities-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SGSUtilities/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SGSUtilities/SGSUtilities.modulemap";
+				PRODUCT_MODULE_NAME = SGSUtilities;
+				PRODUCT_NAME = SGSUtilities;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		44CDBB6D11DE06DB64D6268622BDC47E /* Release */ = {
+		9432CB96C1294A1BABD2A7354504EB14 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6DB3EF92BE9B76CCB370015789E7BBA /* Pods-SGSUtilities_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Example/Pods-SGSUtilities_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		BAC77BA084A038CF3F6514E6C773B286 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8B9EFD6B6551A8E9A97CB0271C11FFC7 /* Pods-SGSUtilities_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Pods-SGSUtilities_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C3E4D7F25FB73A29AFBC6946C6FF2DFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2C417ECD8C95E7043E322863A041278A /* Pods-SGSUtilities_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Pods-SGSUtilities_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CE939BA4E35D5B629375D0C2AC75C181 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 610D5C2B95594FF3F9A9BD4F4D7705F8 /* Pods-SGSUtilities_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Example/Pods-SGSUtilities_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CF10AE52FA039F7ACCD52FF00E2FDDB1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SGSUtilities";
+				INFOPLIST_FILE = "Target Support Files/SGSUtilities/ResourceBundle-SGSCityPicker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = SGSCityPicker;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		E5BB4161260D08825BF0F862B5D188FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC253340C6A4DA66A111E6A5D332AFF5 /* SGSUtilities.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SGSUtilities/SGSUtilities-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SGSUtilities/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SGSUtilities/SGSUtilities.modulemap";
+				PRODUCT_MODULE_NAME = SGSUtilities;
+				PRODUCT_NAME = SGSUtilities;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
-				COPY_PHASE_STRIP = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		4B6CD0E741C87404B7D2304A2395FE58 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DF05F78CBEAB1254A61D3C8F648D1F48 /* Pods-SGSUtilities_Tests.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Pods-SGSUtilities_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SGSUtilities_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		5ACCC574DFEA1EA8678F6661FBBD69C8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SGSUtilities/SGSUtilities-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SGSUtilities/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SGSUtilities/SGSUtilities.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = SGSUtilities;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		626347731A03E7A74C9AEA0677E12CD0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7EEF20E37A62FB96FC51A24236021A50 /* Pods-SGSUtilities_Example.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Example/Pods-SGSUtilities_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SGSUtilities_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		62A4C0B0D88A492A52EB2B42C3E852FB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = BDC590CA5688213A6292F4ED93DE2A14 /* Pods-SGSUtilities_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Tests/Pods-SGSUtilities_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SGSUtilities_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		6D56A526A9818D774C3C07381F4D9B1C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 29D897174B595E2B6C495F5463467A0B /* Pods-SGSUtilities_Example.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-SGSUtilities_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SGSUtilities_Example/Pods-SGSUtilities_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_SGSUtilities_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		B4233FB060B2C9B7D883E9F7A77CF5EF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SGSUtilities";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/SGSUtilities/ResourceBundle-SGSCityPicker-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = SGSCityPicker;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		B5E17A967C9F75CD2818A4DEAA1E7F83 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SGSUtilities/SGSUtilities-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SGSUtilities/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SGSUtilities/SGSUtilities.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = SGSUtilities;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		F158DE320BC4631732851FA8BE9143C9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1F7BD3B5432DC1A8B9DFE54C541E7BA3 /* SGSUtilities.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SGSUtilities";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/SGSUtilities/ResourceBundle-SGSCityPicker-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = SGSCityPicker;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -1312,17 +1062,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				015A368F878AC3E2CEAE21DDE8026304 /* Debug */,
-				44CDBB6D11DE06DB64D6268622BDC47E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		34B45E43FA5E59E82E8BC5FFDCECE0D9 /* Build configuration list for PBXNativeTarget "Pods-SGSUtilities_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4B6CD0E741C87404B7D2304A2395FE58 /* Debug */,
-				62A4C0B0D88A492A52EB2B42C3E852FB /* Release */,
+				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
+				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1330,8 +1071,17 @@
 		9F35E836D823914933A1B8BAD829BF9F /* Build configuration list for PBXNativeTarget "Pods-SGSUtilities_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				626347731A03E7A74C9AEA0677E12CD0 /* Debug */,
-				6D56A526A9818D774C3C07381F4D9B1C /* Release */,
+				9432CB96C1294A1BABD2A7354504EB14 /* Debug */,
+				CE939BA4E35D5B629375D0C2AC75C181 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B54D63773757E32C3B296E0A76212605 /* Build configuration list for PBXNativeTarget "Pods-SGSUtilities_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAC77BA084A038CF3F6514E6C773B286 /* Debug */,
+				C3E4D7F25FB73A29AFBC6946C6FF2DFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1339,8 +1089,8 @@
 		EA4A3A4A5BAA8A11E7BB6074BA415DE0 /* Build configuration list for PBXNativeTarget "SGSUtilities-SGSCityPicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B4233FB060B2C9B7D883E9F7A77CF5EF /* Debug */,
-				F158DE320BC4631732851FA8BE9143C9 /* Release */,
+				CF10AE52FA039F7ACCD52FF00E2FDDB1 /* Debug */,
+				07DB5A3E94A1960A7C649C657450985C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1348,8 +1098,8 @@
 		F0837DFCE845D0483EE9989EE1804377 /* Build configuration list for PBXNativeTarget "SGSUtilities" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B5E17A967C9F75CD2818A4DEAA1E7F83 /* Debug */,
-				5ACCC574DFEA1EA8678F6661FBBD69C8 /* Release */,
+				E5BB4161260D08825BF0F862B5D188FC /* Debug */,
+				1E599076A3D8A445EA42C1578F3C4AC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

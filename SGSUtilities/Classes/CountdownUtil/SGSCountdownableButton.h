@@ -70,7 +70,7 @@ NS_ASSUME_NONNULL_BEGIN
 /*!
  *  开启倒计时，如果之前有相同的identifier倒计时任务，那么将会继续沿用
  *
- *  @param timeout 倒计时间
+ *  @param timeoutSecond 倒计时间
  */
 - (void)countdownWithTimeout:(NSInteger)timeoutSecond finishIdenticalTaskAndInvalidate:(BOOL)finishAndInvalidate;
 

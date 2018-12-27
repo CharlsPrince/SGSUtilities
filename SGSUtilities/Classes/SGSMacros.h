@@ -205,7 +205,7 @@ static inline NSArray<NSString *> * ISOCountryName() {
  *
  *  @param block 待执行的闭包
  */
-static inline void dispatch_async_on_main_queue(void (^block)()) {
+static inline void dispatch_async_on_main_queue(void (^block)(void)) {
     if (pthread_main_np()) {
         block();
     } else {
@@ -221,7 +221,7 @@ static inline void dispatch_async_on_main_queue(void (^block)()) {
  *
  *  @param block 待执行的闭包
  */
-static inline void dispatch_sync_on_main_queue(void (^block)()) {
+static inline void dispatch_sync_on_main_queue(void (^block)(void)) {
     if (pthread_main_np()) {
         block();
     } else {

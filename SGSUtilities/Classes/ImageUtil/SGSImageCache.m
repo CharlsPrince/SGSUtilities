@@ -89,10 +89,14 @@ static NSLock *imageLock = nil;
     }];
     
     if ([_progress respondsToSelector:@selector(setResumingHandler:)]) {
-        [_progress setResumingHandler:^{
-            __typeof__(weakTask) strongTask = weakTask;
-            [strongTask resume];
-        }];
+        if (@available(iOS 9.0, *)) {
+            [_progress setResumingHandler:^{
+                __typeof__(weakTask) strongTask = weakTask;
+                [strongTask resume];
+            }];
+        } else {
+            // Fallback on earlier versions
+        }
     }
     
     [task addObserver:self

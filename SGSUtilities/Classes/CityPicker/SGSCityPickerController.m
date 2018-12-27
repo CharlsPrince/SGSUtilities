@@ -383,7 +383,11 @@ typedef NS_ENUM(NSInteger, LocationStatus) {
     NSURL *url = [NSURL URLWithString:UIApplicationOpenSettingsURLString];
     UIApplication *app = [UIApplication sharedApplication];
     if ([app respondsToSelector:@selector(openURL:options:completionHandler:)]) {
-        [app openURL:url options:@{} completionHandler:nil];
+        if (@available(iOS 10.0, *)) {
+            [app openURL:url options:@{} completionHandler:nil];
+        } else {
+            // Fallback on earlier versions
+        }
     } else {
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wdeprecated-declarations"
@@ -492,7 +496,7 @@ typedef NS_ENUM(NSInteger, LocationStatus) {
             if (city == nil) {
                 [self updateLocationStatus:LocationStatusFailure withLocationCity:nil];
             } else {
-                for (NSString *shortCityName in _cityList) {
+                for (NSString *shortCityName in self->_cityList) {
                     if (([city rangeOfString:shortCityName].length > 0)) {
                         city = shortCityName;
                         break;

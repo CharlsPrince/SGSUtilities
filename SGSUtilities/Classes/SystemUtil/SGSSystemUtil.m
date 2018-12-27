@@ -15,7 +15,11 @@
     
     if ([app respondsToSelector:@selector(openURL:options:completionHandler:)]) {
         NSDictionary *opt = (options == nil) ? @{} : options;
-        [app openURL:url options:opt completionHandler:completion];
+        if (@available(iOS 10.0, *)) {
+            [app openURL:url options:opt completionHandler:completion];
+        } else {
+            // Fallback on earlier versions
+        }
     } else {
         BOOL result = [app openURL:url];
         if (completion != nil) {

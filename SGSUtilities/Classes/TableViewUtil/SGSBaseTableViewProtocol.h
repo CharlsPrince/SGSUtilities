@@ -10,6 +10,9 @@
 
 @import UIKit;
 
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wdocumentation"
+
 //_________________________________________________________________________________________________________
 //UITableViewCell操作代理协议
 @protocol TableViewCellDelegate <NSObject>
@@ -114,7 +117,7 @@ typedef NSInteger (^TableViewNumberOfRowsInSectionConfigurate) (NSInteger sectio
 @interface SGSBaseTableViewProtocol : NSObject<UITableViewDataSource,UITableViewDelegate>
 
 // UITableViewDelegate和UITableViewDatasource代理
-@property (nonatomic,strong) id<TableViewCellDelegate> delegate;
+@property (nonatomic,weak) id<TableViewCellDelegate> delegate;
 
 /*!
  *  协议构造器1：有多个section，每个section中cell行数不定时使用
@@ -147,3 +150,5 @@ cellConfigureBlock:(TableViewCellConfigurate)aCellConfigureBlock;
 cellConfigureBlock:(TableViewCellConfigurate)aCellConfigureBlock;
 
 @end
+
+#pragma clang diagnostic pop

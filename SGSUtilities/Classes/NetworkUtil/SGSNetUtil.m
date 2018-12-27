@@ -247,7 +247,7 @@ static void p_networkReachabilityCallback(SCNetworkReachabilityRef target, SCNet
             __weak __typeof(self)weakSelf = self;
             dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^{
                 SCNetworkReachabilityFlags flags;
-                if (SCNetworkReachabilityGetFlags(_reachabilityRef, &flags)) {
+                if (SCNetworkReachabilityGetFlags(self->_reachabilityRef, &flags)) {
                     __strong __typeof(weakSelf)strongSelf = weakSelf;
                     
                     SGSNetworkStatus status = p_networkStatusForFlags(flags);

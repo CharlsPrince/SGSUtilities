@@ -8,6 +8,9 @@
  *  @copyright 2016年 SouthGIS. All rights reserved.
  */
 
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wdocumentation"
+
 @import Foundation;
 @import UIKit.UIApplication;
 

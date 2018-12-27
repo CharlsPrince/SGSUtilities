@@ -1,18 +1,18 @@
 {
   "name": "SGSUtilities",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "常用工具集合",
-  "homepage": "http://112.94.224.243:8081/kun.li/sgsutilities/tree/master",
+  "homepage": "https://github.com/CharlsPrince/SGSUtilities",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Lee": "kun.li@southgis.com"
+    "CharlsPrince": "961629701@qq.com"
   },
   "source": {
-    "git": "http://112.94.224.243:8081/kun.li/sgsutilities.git",
-    "tag": "0.3.2"
+    "git": "https://github.com/CharlsPrince/SGSUtilities.git",
+    "tag": "0.3.4"
   },
   "platforms": {
     "ios": "8.0"
