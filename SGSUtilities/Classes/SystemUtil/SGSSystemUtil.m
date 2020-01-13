@@ -121,328 +121,103 @@
 }
 
 + (BOOL)gotoWiFiServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=WIFI"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoCellularServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=MOBILE_DATA_SETTINGS_ID"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoBluetoothServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=Bluetooth"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoNotificationsServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=NOTIFICATIONS_ID"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoGeneralServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoAboutServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=About"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoSoftwareUpdateServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=SOFTWARE_UPDATE_LINK"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoSiriServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=SIRI"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoAccessibilityServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=ACCESSIBILITY"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoAutoLockServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=AUTOLOCK"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoDateAndTimeServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=DATE_AND_TIME"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoKeyboardServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=Keyboard"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoInternationalServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=INTERNATIONAL"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoManagedConfigurationServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=ManagedConfigurationList"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoResetServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=General&path=Reset"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoWallpaperServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=Wallpaper"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoSoundsServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=Sounds"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoLocationServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=LOCATION_SERVICES"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoStorageAndBackupServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=CASTLE&path=STORAGE_AND_BACKUP"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoStorageServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=STORE"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoNotesServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=NOTES"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoPhoneServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=Phone"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoFaceTimeServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=FACETIME"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoMusicServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=MUSIC"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)gotoPhotosServices {
-    NSURL *url = [NSURL URLWithString:@"prefs:root=Photos"];
-    if ([self p_iOS10OrLater]) {
-        return NO;
-    } else {
-        __block BOOL result = NO;
-        [self openURL:url options:nil completionHandler:^(BOOL success) {
-            result = success;
-        }];
-        return result;
-    }
+    return NO;
 }
 
 + (BOOL)p_iOS10OrLater {
